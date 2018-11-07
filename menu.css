@@ -1,0 +1,50 @@
+div ul li{
+    display: inline-block;
+    list-style-type: none;
+    margin-top: 2px;
+    position: relative;
+}
+div ul li a{
+    text-decoration: none;
+    padding: 10px 5px;
+    color:black;
+    display: block;
+    margin-right: -1px;  
+    margin-top: -2px;
+}
+div ul li:hover {
+    background-color: #587e95; 
+}
+div ul li ul li:hover {
+    background-color: #6c95af; 
+}
+div ul li ul{
+    display: none;
+    position: absolute;
+    margin-left: -0.5px;
+    margin-bottom: -1px;
+    padding-top: 5px;
+
+}
+div ul li ul li{
+    float: left;
+    width: 100%;
+    min-width: 190px;
+    background: #587e95;
+    margin: 0;
+    text-align: left;
+    padding: 2px 4px 0 4px;
+
+}
+div li:hover ul{
+    display: block;
+    padding:0;
+    margin-bottom: -2px;
+}
+.menu{
+   background: #46697d !important;  
+   box-shadow: 1px 2px 8px 0px;
+}
+a{
+    /* color: white !important; */
+}
