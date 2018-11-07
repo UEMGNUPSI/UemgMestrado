@@ -5,7 +5,7 @@
             <img src="IMG/logofrutal.png">
         </figure>
     <div class="row">
-        <div id="carouselExampleControls" class="carousel slide col-8 offset-2" data-ride="carousel">
+        <div id="carouselExampleControls" class="carousel slide col-md-8 offset-md-2 col-sm-12" data-ride="carousel">
             <div class="carousel-inner">
                 <div class="carousel-item active">
                 <img class="d-block w-100" src="IMG/banner1.jpg" alt="First slide">
