@@ -29,11 +29,11 @@
     </div>
 
     <nav class="navbar navbar-expand-lg navbar-light bg-light menu" style='padding: 10px 5px;'>
-        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo02" aria-controls="navbarTogglerDemo02" aria-expanded="false" aria-label="Toggle navigation">
+        <button class="navbar-toggler espacamento" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo02" aria-controls="navbarTogglerDemo02" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
         </button>
 
-        <div class="collapse navbar-collapse" id="navbarTogglerDemo02">
+        <div class="collapse navbar-collapse espacamento" id="navbarTogglerDemo02">
             <ul class="navbar-nav mr-auto mt-2 mt-lg-0">
                 <li class="nav-item ">
                     <a class="nav-link" href="#">Inicio <span class="sr-only">(current)</span></a>
@@ -99,7 +99,7 @@
             
         </div>
     </nav>
-    <div class="row">
+    <div class="row" style="margin-bottom:50px">
         <div id="carouselExampleControls2" class="carousel slide col-8 offset-2" data-ride="carousel">
             <div class="carousel-inner">
                 <div class="carousel-item active">

@@ -52,3 +52,16 @@ a{
     font-size: 105%;
     color:whitesmoke !important;
 }
+.dropdown-item:hover{
+    background: #46697d !important;  
+}
+
+@media (max-width: 575.98px){
+    .espacamento{
+        margin-left:10px; 
+    }
+    h2{
+        font-size: 130%;
+        text-align: center;
+    }
+}
