@@ -1,6 +1,6 @@
 
     <div class="container" style="margin-top:20px">
-        <h2 style="float:left">Programa de Pós-Graduação em Ciencias Ambientais</h2>
+        <h2 style="float:left;color:#46697d">Programa de Pós-Graduação em Ciencias Ambientais</h2>
         <figure style="text-align: right">
             <img src="IMG/logofrutal.png">
         </figure>
@@ -28,15 +28,31 @@
         </div>
     </div>
 
-    <nav class="navbar navbar-expand-lg navbar-light bg-light menu">
+    <nav class="navbar navbar-expand-lg navbar-light bg-light menu" style='padding: 10px 5px;'>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo02" aria-controls="navbarTogglerDemo02" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
         </button>
 
         <div class="collapse navbar-collapse" id="navbarTogglerDemo02">
             <ul class="navbar-nav mr-auto mt-2 mt-lg-0">
-                <li class="nav-item active">
+                <li class="nav-item ">
                     <a class="nav-link" href="#">Inicio <span class="sr-only">(current)</span></a>
+                </li>
+                <li class="nav-item">
+                    <div class="dropdown">
+                        <a class="dropdown-toggle nav-link" href="#" role="button" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        Apresentação
+                        </a>
+
+                        <div class="dropdown-menu" aria-labelledby="dropdownMenuLink" style="    background: #587e95">
+                            <a class="dropdown-item" href="#">Público alvo</a>
+                            <a class="dropdown-item" href="#">Perfio do egresso</a>
+                            <a class="dropdown-item" href="#">Objetivos</a>
+                            <a class="dropdown-item" href="#">Créditos</a>
+                            <a class="dropdown-item" href="#">Área de concentração</a>
+                        </div>
+                    </div>
+                    
                 </li>
                 <li class="nav-item">
                     <div class="dropdown">
@@ -52,13 +68,13 @@
                     
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link " href="#">Normas e diretrizes</a>
+                    <a class="nav-link " href="#">Normas/diretrizes</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link " href="#">Grade curricular</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link " href="#">Linhas de Pesquisa</a>
+                    <a class="nav-link " href="#">Pesquisa</a>
                 </li>
                 <li class="nav-item">
                     
@@ -69,7 +85,7 @@
 
                         <div class="dropdown-menu" aria-labelledby="dropdownMenuLink" style="    background: #587e95">
                             <a class="dropdown-item" href="#">Docente</a>
-                            <a class="dropdown-item" href="#">Discente action</a>
+                            <a class="dropdown-item" href="#">Discente </a>
                         </div>
                     </div>
                 </li>
