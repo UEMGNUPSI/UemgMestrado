@@ -1,4 +1,4 @@
-<div class="col-sm-12  col-md-8 offset-md-2 col-lg-6 offset-lg-3">
+<div class="col-sm-12  col-md-8 offset-md-2 col-lg-6 offset-lg-3" style="margin-top:50px">
     <figure style="text-align: center;margin:0">
         <img src="IMG/rodaper_i.png" width='100%'>
     </figure>

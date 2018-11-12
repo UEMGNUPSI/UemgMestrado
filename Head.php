@@ -44,12 +44,12 @@
                         Apresentação
                         </a>
 
-                        <div class="dropdown-menu" aria-labelledby="dropdownMenuLink" style="    background: #587e95">
-                            <a class="dropdown-item" href="#">Público alvo</a>
-                            <a class="dropdown-item" href="#">Perfio do egresso</a>
+                        <div class="dropdown-menu" aria-labelledby="dropdownMenuLink" style="background: #587e95">
+                            <a class="dropdown-item" href="area de concentracao.php">Área de concentração</a>
+                            <a class="dropdown-item" href="creditos.php">Créditos</a>
                             <a class="dropdown-item" href="#">Objetivos</a>
-                            <a class="dropdown-item" href="#">Créditos</a>
-                            <a class="dropdown-item" href="#">Área de concentração</a>
+                            <a class="dropdown-item" href="#">Perfio do egresso</a>
+                            <a class="dropdown-item" href="#">Público alvo</a> 
                         </div>
                     </div>
                     
@@ -93,7 +93,7 @@
                     <a class="nav-link " href="#">Processo seletivo</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link " href="#">Fale conosco</a>
+                    <a class="nav-link " href="fale conosco.php">Fale conosco</a>
                 </li>
             </ul>
             
