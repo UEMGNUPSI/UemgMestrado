@@ -21,6 +21,7 @@
     ?>
 
 <div class="container">
+<!--Primeiro Card-->
 <div class="row mb-5">
             
             <div class="col-md-4 mt-3">
@@ -37,8 +38,8 @@
                 </div>
 
                   <ul class="list-group list-group-flush">                      
-                      <li class="list-group-item" style="min-height: 75px;">Graduação: Química</li>
-                      <li class="list-group-item" style="min-height: 75px;">Doutorado: Química</li>
+                      <li class="list-group-item" style="min-height: 75px;display: flex;align-items: center;">Graduação: Química</li>
+                      <li class="list-group-item" style="min-height: 75px;display: flex;align-items: center;">Doutorado: Química</li>
                       <li class="list-group-item">Ano de Titulação: 2014</li>
                   </ul>
                 
@@ -64,8 +65,8 @@
 
                 <ul class="list-group list-group-flush">
                     
-                      <li class="list-group-item" style="min-height: 75px;">Graduação: Ciências Biológicas</li>
-                      <li class="list-group-item" style="min-height: 75px;">Doutorado: Ecologia, Conservação e Manejo da Vida Silvestre.</li>
+                      <li class="list-group-item" style="min-height: 75px;display: flex;align-items: center;">Graduação: Ciências Biológicas</li>
+                      <li class="list-group-item" style="min-height: 75px;display: flex;align-items: center;">Doutorado: Ecologia, Conservação e Manejo da Vida Silvestre.</li>
                       <li class="list-group-item">Ano da Titulação: 2014</li>
 
                 </ul>
@@ -93,8 +94,8 @@
 
                 <ul class="list-group list-group-flush">
 
-                      <li class="list-group-item" style="min-height: 75px;">Graduação: Direito</li>
-                      <li class="list-group-item" style="min-height: 75px;">Doutorado: Ciência Política</li>
+                      <li class="list-group-item" style="min-height: 75px;display: flex;align-items: center;">Graduação: Direito</li>
+                      <li class="list-group-item" style="min-height: 75px;display: flex;align-items: center;">Doutorado: Ciência Política</li>
                       <li class="list-group-item">Ano da Titulação: 2014</li>
 
                 </ul>
@@ -109,18 +110,388 @@
               </div>
 
             </div>
-
-          </div>    
+</div>
           
+<!--Quarto Card-->  
+<div class="row mb-5">
+          <div class="col-md-4 mt-3">
+              
+              <div class="card">             
+             
 
+                <div class="card-body">
+                <a href="http://lattes.cnpq.br/6188547713731917" 	target='_blank'> <img class="quadro mb-4" /></a>
+                    <h4 class="card-title" style="min-height: 55px;">Gustavo Henrique Gravatim Costa</h4>
+                    <h6 class="card-subtitle mb-3 text-muted">Linhas de Pesquisa: Tecnologia, Ambiente e Sociedade </h6>
+                
+                </div>
+
+                <ul class="list-group list-group-flush">
+
+                      <li class="list-group-item" style="min-height: 75px;display: flex;align-items: center;">Graduação: Tecnologia em Biocombustíveis</li>
+                      <li class="list-group-item" style="min-height: 75px;display: flex;align-items: center;">Doutorado: Microbiologia Agropecuária</li>
+                      <li class="list-group-item">Ano da Titulação: 2015</li>
+
+                </ul>
+                
+                <div class="card-footer text-muted">
+
+                      gustavo.costa@uemg.br
+
+                </div>
+
+              </div>
+
+            </div>
+
+            
+<!--Quinto Card-->  
+          <div class="col-md-4 mt-3">
+              
+              <div class="card">             
+             
+
+                <div class="card-body">
+                <a href="http://lattes.cnpq.br/1421305037766063" 	target='_blank'> <img class="quadro mb-4" /></a>
+                    <h4 class="card-title" style="min-height: 55px;">Jhansley Ferreira da Mata</h4>
+                    <h6 class="card-subtitle mb-3 text-muted">Linhas de Pesquisa: Diagnóstico e Ecologia Ambiental </h6>
+                
+                </div>
+
+                <ul class="list-group list-group-flush">
+
+                      <li class="list-group-item" style="min-height: 75px;display: flex;align-items: center;">Graduação: Agronomia</li>
+                      <li class="list-group-item" style="min-height: 75px;display: flex;align-items: center;">Doutorado: Agronomia (produção Vegetal)</li>
+                      <li class="list-group-item">Ano da Titulação: 2015</li>
+
+                </ul>
+                
+                <div class="card-footer text-muted">
+
+                      jhansley.mata@uemg.br
+
+                </div>
+
+              </div>
+
+            </div>
+<!--Sexto Card-->  
+<div class="col-md-4 mt-3">
+              
+              <div class="card">             
+             
+
+                <div class="card-body">
+                <a href="http://lattes.cnpq.br/4283839989423703" 	target='_blank'> <img class="quadro mb-4" /></a>
+                    <h4 class="card-title" style="min-height: 55px;">Leandro de Souza Pinheiro</h4>
+                    <h6 class="card-subtitle mb-3 text-muted">Linhas de Pesquisa: Diagnóstico e Ecologia Ambiental </h6>
+                
+                </div>
+
+                <ul class="list-group list-group-flush">
+
+                      <li class="list-group-item" style="min-height: 75px;display: flex;align-items: center;">Graduação: Geografia</li>
+                      <li class="list-group-item" style="min-height: 75px;display: flex;align-items: center;">Doutorado: Geografia</li>
+                      <li class="list-group-item">Ano da Titulação: 2012</li>
+
+                </ul>
+                
+                <div class="card-footer text-muted">
+
+                      leandro.pinheiro@uemg.br
+
+                </div>
+
+              </div>
+
+            </div>          
+        
+        </div>
+  
+<!--Sétimo Card-->  
+<div class="row mb-5">
+          <div class="col-md-4 mt-3">
+              
+              <div class="card">             
+             
+
+                <div class="card-body">
+                <a href="http://lattes.cnpq.br/2926329960701097" 	target='_blank'> <img class="quadro mb-4" /></a>
+                    <h4 class="card-title" style="min-height: 55px;">Maurício Bonatto Machado de Castilha</h4>
+                    <h6 class="card-subtitle mb-3 text-muted">Linhas de Pesquisa: Tecnologia, Ambiente e Sociedade </h6>
+                
+                </div>
+
+                <ul class="list-group list-group-flush">
+
+                      <li class="list-group-item" style="min-height: 75px;display: flex;align-items: center;">Graduação: Engenharia de Alimentos</li>
+                      <li class="list-group-item" style="min-height: 75px;display: flex;align-items: center;">Doutorado: Doutor em Engenharia e Ciência de Alimentos</li>
+                      <li class="list-group-item">Ano da Titulação: 2016</li>
+
+                </ul>
+                
+                <div class="card-footer text-muted">
+
+                      mauricio.castilhas@uemg.br
+
+                </div>
+
+              </div>
+
+            </div>
+
+<!--Oitavo Card-->  
+<div class="col-md-4 mt-3">
+              
+              <div class="card">             
+             
+
+                <div class="card-body">
+                <a href="http://lattes.cnpq.br/4633752993827279" 	target='_blank'> <img class="quadro mb-4" /></a>
+                    <h4 class="card-title" style="min-height: 55px;">Osania Emerenciano Ferreira</h4>
+                    <h6 class="card-subtitle mb-3 text-muted">Linhas de Pesquisa: Diagnóstico e Ecologia Ambiental </h6>
+                
+                </div>
+
+                <ul class="list-group list-group-flush">
+
+                      <li class="list-group-item" style="min-height: 75px;display: flex;align-items: center;">Graduação: Ciências Biológicas</li>
+                      <li class="list-group-item" style="min-height: 75px;display: flex;align-items: center;">Doutorado: Microbiologia Agropecuária</li>
+                      <li class="list-group-item">Ano da Titulação: 2015</li>
+
+                </ul>
+                
+                <div class="card-footer text-muted">
+
+                      osania.ferreira@uemg.br
+
+                </div>
+
+              </div>
+
+            </div>
+
+<!--Nono Card-->  
+<div class="col-md-4 mt-3">
+              
+              <div class="card">             
+             
+
+                <div class="card-body">
+                <a href="http://lattes.cnpq.br/4521089561104903" 	target='_blank'> <img class="quadro mb-4" /></a>
+                    <h4 class="card-title" style="min-height: 55px;">Rodrigo Ney Millan</h4>
+                    <h6 class="card-subtitle mb-3 text-muted">Linhas de Pesquisa: Diagnóstico e Ecologia Ambiental </h6>
+                
+                </div>
+
+                <ul class="list-group list-group-flush">
+
+                      <li class="list-group-item" style="min-height: 75px;display: flex;align-items: center;">Graduação: Ciências Biológicas</li>
+                      <li class="list-group-item" style="min-height: 75px;display: flex;align-items: center;">Doutorado: Microbiologia Agropecuária</li>
+                      <li class="list-group-item">Ano da Titulação: 2012</li>
+
+                </ul>
+                
+                <div class="card-footer text-muted">
+
+                     rodrigo.millan@uemg.br
+
+                </div>
+
+              </div>
+
+            </div>          
+        
+        </div>
+
+<!--Décimo Card-->  
+<div class="row mb-5">
+          <div class="col-md-4 mt-3">
+              
+              <div class="card">             
+             
+
+                <div class="card-body">
+                <a href="http://lattes.cnpq.br/8839658976395370" 	target='_blank'> <img class="quadro mb-4" /></a>
+                    <h4 class="card-title" style="min-height: 55px;">Stefânia Lima Oliveira Metzker</h4>
+                    <h6 class="card-subtitle mb-3 text-muted">Linhas de Pesquisa: Tecnologia, Ambiente e Sociedade </h6>
+                
+                </div>
+
+                <ul class="list-group list-group-flush">
+
+                      <li class="list-group-item" style="min-height: 75px;display: flex;align-items: center;">Graduação: Design de Produtos</li>
+                      <li class="list-group-item" style="min-height: 75px;display: flex;align-items: center;">Doutorado: Ciência e Tecnologia da Madeira</li>
+                      <li class="list-group-item">Ano da Titulação: 2016</li>
+
+                </ul>
+                
+                <div class="card-footer text-muted">
+
+                      stefania.oliveira@uemg.br
+
+                </div>
+
+              </div>
+
+            </div>
+
+<!--Décimo-Primeiro Card-->  
+<div class="col-md-4 mt-3">
+              
+              <div class="card">             
+             
+
+                <div class="card-body">
+                <a href="http://lattes.cnpq.br/4211765565266439" 	target='_blank'> <img class="quadro mb-4" /></a>
+                    <h4 class="card-title" style="min-height: 55px;">Taís Arthur Corrêa</h4>
+                    <h6 class="card-subtitle mb-3 text-muted">Linhas de Pesquisa: Diagnóstico e Ecologia Ambiental </h6>
+                
+                </div>
+
+                <ul class="list-group list-group-flush">
+
+                      <li class="list-group-item" style="min-height: 75px;display: flex;align-items: center;">Graduação: Química</li>
+                      <li class="list-group-item" style="min-height: 75px;display: flex;align-items: center;">Doutorado: Química</li>
+                      <li class="list-group-item">Ano da Titulação: 2014</li>
+
+                </ul>
+                
+                <div class="card-footer text-muted">
+
+                      tais.correa@uemg.br
+
+                </div>
+
+              </div>
+
+            </div>
+<!--Décimo-Segundo Card-->
+            <div class="col-md-4 mt-3">
+              
+              <div class="card">             
+             
+
+                <div class="card-body">
+                <a href="http://lattes.cnpq.br/6213884442511218" 	target='_blank'> <img class="quadro mb-4" /></a>
+                    <h4 class="card-title" style="min-height: 55px;">Thiago Gechel Kloss</h4>
+                    <h6 class="card-subtitle mb-3 text-muted">Linhas de Pesquisa: Diagnóstico e Ecologia Ambiental </h6>
+                
+                </div>
+
+                <ul class="list-group list-group-flush">
+
+                      <li class="list-group-item" style="min-height: 75px;display: flex;align-items: center;">Graduação: Ciências Biológicas</li>
+                      <li class="list-group-item" style="min-height: 75px;display: flex;align-items: center;">Doutorado: Entomologia</li>
+                      <li class="list-group-item">Ano da Titulação: 2015</li>
+
+                </ul>
+                
+                <div class="card-footer text-muted">
+
+                     thiago.kloss@uemg.br
+
+                </div>
+
+              </div>
+
+            </div>          
+        
+        </div>
+<!--Décimo-Terceiro Card -->
+<div class="row mb-5">
+          <div class="col-md-4 mt-3">
+              
+              <div class="card">             
+             
+
+                <div class="card-body">
+                <a href="http://lattes.cnpq.br/8278516582581479" 	target='_blank'> <img class="quadro mb-4" /></a>
+                    <h4 class="card-title" style="min-height: 55px;">Thiago Torres Costa Pereira</h4>
+                    <h6 class="card-subtitle mb-3 text-muted">Linhas de Pesquisa: Tecnologia, Ambiente e Sociedade </h6>
+                
+                </div>
+
+                <ul class="list-group list-group-flush">
+
+                      <li class="list-group-item" style="min-height: 75px;display: flex;align-items: center;">Graduação: Geografia</li>
+                      <li class="list-group-item" style="min-height: 75px;display: flex;align-items: center;">Doutorado: Agronomia (Solos e Nutrição de Plantas)</li>
+                      <li class="list-group-item">Ano da Titulação: 2012</li>
+
+                </ul>
+                
+                <div class="card-footer text-muted">
+
+                      thiago.pereira@uemg.br
+
+                </div>
+
+              </div>
+
+            </div>
+<!--Décimo-Quarto Card-->
+<div class="col-md-4 mt-3">
+              
+              <div class="card">             
+             
+
+                <div class="card-body">
+                <a href="http://lattes.cnpq.br/0596604666342386" 	target='_blank'> <img class="quadro mb-4" /></a>
+                    <h4 class="card-title" style="min-height: 55px;">Vanesca Korasaki</h4>
+                    <h6 class="card-subtitle mb-3 text-muted">Linhas de Pesquisa: Diagnóstico e Ecologia Ambiental </h6>
+                
+                </div>
+
+                <ul class="list-group list-group-flush">
+
+                      <li class="list-group-item" style="min-height: 75px;display: flex;align-items: center;">Graduação: Agronomia</li>
+                      <li class="list-group-item" style="min-height: 75px;display: flex;align-items: center;">Doutorado: Agronomia (Entomologia)</li>
+                      <li class="list-group-item">Ano da Titulação: 2010</li>
+
+                </ul>
+                
+                <div class="card-footer text-muted">
+
+                     vanesca.korasaki@uemg.br
+
+                </div>
+
+              </div>
+
+            </div>
+<!--Décimo-Quinto Card-->
+<div class="col-md-4 mt-3">
+              
+              <div class="card">             
+             
+
+                <div class="card-body">
+                <a href="http://lattes.cnpq.br/8485150224469596" 	target='_blank'> <img class="quadro mb-4" /></a>
+                    <h4 class="card-title" style="min-height: 55px;">Viviane Modesto Arruda</h4>
+                    <h6 class="card-subtitle mb-3 text-muted">Linhas de Pesquisa: Tecnologia, Ambiente e Sociedade </h6>
+                
+                </div>
+
+                <ul class="list-group list-group-flush">
+
+                      <li class="list-group-item" style="min-height: 75px;display: flex;align-items: center;">Graduação: Agronomia</li>
+                      <li class="list-group-item" style="min-height: 75px;display: flex;align-items: center;">Doutorado: Fitotecnia (Produção Vegetal)</li>
+                      <li class="list-group-item">Ano da Titulação: 2009</li>
+
+                </ul>
+                
+                <div class="card-footer text-muted">
+
+                     viviane.modesto@uemg.br
+
+                </div>
+
+              </div>
+
+            </div>
+
+          </div>           
       </div>
-
-
-
-
-
-
-
 
 <?php
         require_once("footer.php");
