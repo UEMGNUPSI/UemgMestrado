@@ -17,10 +17,9 @@
 <body >
     <?php
         require_once("Head.php");
-        require_once("docente.php");    
     ?>
 
-    <p style="margin-top:1000px"><p>
+    
     <?php
         require_once("footer.php");
     ?>
