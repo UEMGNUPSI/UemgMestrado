@@ -20,7 +20,7 @@
         require_once("docente.php");    
     ?>
 
-    <p style="margin-top:400px"><p>
+    <p style="margin-top:1000px"><p>
     <?php
         require_once("footer.php");
     ?>
