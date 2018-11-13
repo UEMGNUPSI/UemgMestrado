@@ -60,7 +60,7 @@
                     <th scope="row" ></th>
                     <td > Dra. OSANIA EMERENCIANO FERREIRA</td>
                     <td >Diagnóstico e Ecologia Ambiental</td>
-                
+                    
                 </tr>
                 
                 <tr>
@@ -98,7 +98,7 @@
                 <th scope="row" ></th>
                 <td > Dr. Thiago Torres Costa Pereira</td>
                 <td >Diagnóstico e Ecologia Ambiental</td>
-               
+              
             </tr>
 
             <tr>
