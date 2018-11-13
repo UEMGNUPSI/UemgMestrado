@@ -71,7 +71,7 @@
                     <a class="nav-link " href="#">Normas/diretrizes</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link " href="#">Grade curricular</a>
+                    <a class="nav-link " href="grade curricular.php">Grade curricular</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link " href="#">Pesquisa</a>
