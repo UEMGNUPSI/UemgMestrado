@@ -47,9 +47,9 @@
                         <div class="dropdown-menu" aria-labelledby="dropdownMenuLink" style="background: #587e95">
                             <a class="dropdown-item" href="area de concentracao.php">Área de concentração</a>
                             <a class="dropdown-item" href="creditos.php">Créditos</a>
-                            <a class="dropdown-item" href="#">Objetivos</a>
-                            <a class="dropdown-item" href="#">Perfio do egresso</a>
-                            <a class="dropdown-item" href="#">Público alvo</a> 
+                            <a class="dropdown-item" href="objetivos.php">Objetivos</a>
+                            <a class="dropdown-item" href="perfil do egresso.php">Perfio do egresso</a>
+                            <a class="dropdown-item" href="publico alvo.php">Público alvo</a> 
                         </div>
                     </div>
                     

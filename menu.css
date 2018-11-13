@@ -1,9 +1,9 @@
-div ul li{
+/* div ul li{
     display: inline-block;
     list-style-type: none;
     margin-top: 2px;
     position: relative;
-}
+} */
 div ul li a{
     text-decoration: none;
     padding: 10px 5px;
@@ -12,12 +12,13 @@ div ul li a{
     margin-right: -1px;  
     margin-top: -2px;
 }
-div ul li:hover {
+ div ul .nav-item:hover {
     background-color: #587e95; 
 }
+/*
 div ul li ul li:hover {
     background-color: #6c95af; 
-}
+} */
 div ul li ul{
     display: none;
     position: absolute;
