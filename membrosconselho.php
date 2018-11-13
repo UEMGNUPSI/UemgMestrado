@@ -19,29 +19,110 @@
         require_once("Head.php");
            
     ?>
-
-<div class="container">
-<!--Primeiro Card-->
-<div class="row mb-5">
+<div class="container" style="padding-left:5%;padding-right:5%;">
             
-        <div class="col-md-4 mt-3">
-              
-            <div class="card">             
-                            
-                <div class="card-body">
-                  
-                <a href="http://lattes.cnpq.br/9843838056118017" 	target='_blank'> <img class="quadro mb-4" /></a>
-                  <h4 class="card-title" style="min-height: 55px;">Titular: Dr. GUSTAVO HENRIQUE GRAVATIM COSTA – Coordenador</h4>
-                  <h6 class="card-subtitle mb-3 text-muted">Suplente: Dra. VanescaKorasaki – Vice Coordenadora </h6>
+    <h1 class="mb-5">Membros do Conselho</h1>
+    <div class="table-responsive">
+            <table class="table" >
+            <thead class="thead-dark">
+                <tr>
+                    <th scope="col"></th>
+                    <th scope="col">Membros</th>
+                    <th scope="col">Cargo</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <th scope="row"></th>
+                    <td> Dr. GUSTAVO HENRIQUE GRAVATIM COSTA</td>
+                    <td>Coordernador</td>
+                </tr>
+                <tr>
+                    <th scope="row"></th>
+                    <td> Dra. Vanesca Korasaki</td>
+                    <td>Vice Coordenadora</td>
+                </tr>    
+            </tbody>
+            </table>
+</div>
+<!--Segunda Tabela-->  
+<div class="table-responsive">
+            <table class="table" >
+            <thead class="table-secondary">
+                <tr>
+                    <th scope="col"></th>
+                    <th scope="col">Membros Titulares</th>                    
+                    <th scope="col">Linhas de Pesquisa</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <th scope="row" ></th>
+                    <td > Dra. OSANIA EMERENCIANO FERREIRA</td>
+                    <td >Diagnóstico e Ecologia Ambiental</td>
+                
+                </tr>
+                
+                <tr>
+                    <th scope="row" ></th>
+                    <td > Dra. RODRIGO NEY MILLAN</td>
+                    <td >Diagnóstico e Ecologia Ambiental</td>      
+                </tr>
+                
+                <tr>
+                    <th scope="row"></th>
+                    <td > Dra. STEFANIA LIMA OLIVEIRA METZKER </td>
+                    <td >Tecnologia, Ambiente e Sociedade</td>      
+                </tr>
+               
+                <tr>
+                    <th scope="row" ></th>
+                    <td >Dr. ALEXANDRE TÚLIO AMARAL NASCIMENTO</td>
+                    <td >Tecnologia, Ambiente e Sociedade</td>      
+                </tr>
+            </tbody>
+            </table>
+</div>
+<!--Terceira Tabela--> 
+<div class="table-responsive">          
+            <table class="table" >
+            <thead class="table-secondary">
+                <tr>
+                    <th scope="col"></th>
+                    <th scope="col">Suplentes</th>                    
+                    <th scope="col">Linhas de Pesquisa</th>
+                </tr>
+            </thead>
+            <tbody>
+            <tr>
+                <th scope="row" ></th>
+                <td > Dr. Thiago Torres Costa Pereira</td>
+                <td >Diagnóstico e Ecologia Ambiental</td>
+               
+            </tr>
 
-                </div>
+            <tr>
+                <th scope="row"></th>
+                <td> Dr. Thiago GechelKloss</td>
+                <td>Diagnóstico e Ecologia Ambiental</td>      
+            </tr>
 
+             <tr>
+                <th scope="row" ></th>
+                <td > Dr. Alan Rodrigues Teixeira Machado</td>
+                <td >Tecnologia, Ambiente e Sociedade</td>      
+            </tr>
+
+            <tr>
+                <th scope="row" ></th>
+                <td > Dr. Maurício Bonatto Machado de Castilhos</td>
+                <td>Tecnologia, Ambiente e Sociedade</td>      
+            </tr>
+
+            </tbody>
+            </table>
             </div>
-
         </div>
-
-
-
 
 
 
@@ -51,12 +132,3 @@
     ?>
 </body>
 </html>
-
-
-
-
-
-
-
-
-    
