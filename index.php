@@ -19,6 +19,7 @@
         require_once("Head.php");
     ?>
 
+        <p style="margin-top:300px"></p>
     
     <?php
         require_once("footer.php");

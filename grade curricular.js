@@ -1,4 +1,3 @@
-$( function(e) {
     $( function(e) {
         $('.ciencias').click(function(e){
                   $('html,body').animate({scrollTop:$('#CienciasAmbientais').offset().top},1000); 
@@ -22,4 +21,3 @@ $w.on("scroll", function(){
         $('#top').css("display","none");
     }
 });
-
