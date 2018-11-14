@@ -21,7 +21,6 @@
     ?>
 <div class="container" style="padding-left:5%;padding-right:5%;">
             
-    <h1 class="mb-5">Membros do Conselho</h1>
     <div class="table-responsive">
             <table class="table" >
             <thead class="thead-dark">
@@ -42,20 +41,17 @@
                     <td> Dra. Vanesca Korasaki</td>
                     <td>Vice Coordenadora</td>
                 </tr>    
-            </tbody>
-            </table>
+           
 </div>
 <!--Segunda Tabela-->  
-<div class="table-responsive">
-            <table class="table" >
-            <thead class="table-secondary">
+          
+            
                 <tr>
-                    <th scope="col"></th>
-                    <th scope="col">Membros Titulares</th>                    
-                    <th scope="col">Linhas de Pesquisa</th>
+                    <th  class="table-dark"></th>
+                    <th  class="table-dark">Membros Titulares</th>                    
+                    <th class="table-dark">Linhas de Pesquisa</th>
                 </tr>
-            </thead>
-            <tbody>
+          
                 <tr>
                     <th scope="row" ></th>
                     <td > Dra. OSANIA EMERENCIANO FERREIRA</td>
@@ -80,20 +76,18 @@
                     <td >Dr. ALEXANDRE TÚLIO AMARAL NASCIMENTO</td>
                     <td >Tecnologia, Ambiente e Sociedade</td>      
                 </tr>
-            </tbody>
-            </table>
-</div>
+      
+
 <!--Terceira Tabela--> 
-<div class="table-responsive">          
-            <table class="table" >
-            <thead class="table-secondary">
+       
+            
                 <tr>
-                    <th scope="col"></th>
-                    <th scope="col">Suplentes</th>                    
-                    <th scope="col">Linhas de Pesquisa</th>
+                    <th class="table-dark"></th>
+                    <th  class="table-dark">Membros Suplentes</th>                    
+                    <th class="table-dark">Linhas de Pesquisa</th>
                 </tr>
-            </thead>
-            <tbody>
+            
+           
             <tr>
                 <th scope="row" ></th>
                 <td > Dr. Thiago Torres Costa Pereira</td>
@@ -103,7 +97,7 @@
 
             <tr>
                 <th scope="row"></th>
-                <td> Dr. Thiago GechelKloss</td>
+                <td> Dr. Thiago Gechel Kloss</td>
                 <td>Diagnóstico e Ecologia Ambiental</td>      
             </tr>
 
@@ -121,6 +115,7 @@
 
             </tbody>
             </table>
+
             </div>
         </div>
 
