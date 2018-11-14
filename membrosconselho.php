@@ -38,11 +38,11 @@
                 </tr>
                 <tr>
                     <th scope="row"></th>
-                    <td> Dra. Vanesca Korasaki</td>
+                    <td> Dra. Vanesca Korasaki </td>
                     <td>Vice Coordenadora</td>
                 </tr>    
            
-</div>
+
 <!--Segunda Tabela-->  
           
             
@@ -114,10 +114,12 @@
             </tr>
 
             </tbody>
+
             </table>
 
-            </div>
-        </div>
+      </div>
+
+</div>
 
 
 
