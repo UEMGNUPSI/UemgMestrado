@@ -19,110 +19,295 @@
         require_once("Head.php");
            
     ?>
-<div class="container" style="padding-left:5%;padding-right:5%;">
-            
-    <div class="table-responsive">
-            <table class="table" >
-            <thead class="thead-dark">
-                <tr>
-                    <th scope="col"></th>
-                    <th scope="col">Membros</th>
-                    <th scope="col">Cargo</th>
-                </tr>
-            </thead>
-            <tbody>
-                <tr>
-                    <th scope="row"></th>
-                    <td> Dr. GUSTAVO HENRIQUE GRAVATIM COSTA</td>
-                    <td>Coordernador</td>
-                </tr>
-                <tr>
-                    <th scope="row"></th>
-                    <td> Dra. Vanesca Korasaki </td>
-                    <td>Vice Coordenadora</td>
-                </tr>    
-           
 
-<!--Segunda Tabela-->  
-          
+<div class="container" >
+<!--Primeiro Card-->
+<div class="row mb-5 ">
             
-                <tr>
-                    <th  class="table-dark"></th>
-                    <th  class="table-dark">Membros Titulares</th>                    
-                    <th class="table-dark">Linhas de Pesquisa</th>
-                </tr>
-          
-                <tr>
-                    <th scope="row" ></th>
-                    <td > Dra. OSANIA EMERENCIANO FERREIRA</td>
-                    <td >Diagnóstico e Ecologia Ambiental</td>
-                    
-                </tr>
-                
-                <tr>
-                    <th scope="row" ></th>
-                    <td > Dra. RODRIGO NEY MILLAN</td>
-                    <td >Diagnóstico e Ecologia Ambiental</td>      
-                </tr>
-                
-                <tr>
-                    <th scope="row"></th>
-                    <td > Dra. STEFANIA LIMA OLIVEIRA METZKER </td>
-                    <td >Tecnologia, Ambiente e Sociedade</td>      
-                </tr>
-               
-                <tr>
-                    <th scope="row" ></th>
-                    <td >Dr. ALEXANDRE TÚLIO AMARAL NASCIMENTO</td>
-                    <td >Tecnologia, Ambiente e Sociedade</td>      
-                </tr>
-      
-
-<!--Terceira Tabela--> 
-       
-            
-                <tr>
-                    <th class="table-dark"></th>
-                    <th  class="table-dark">Membros Suplentes</th>                    
-                    <th class="table-dark">Linhas de Pesquisa</th>
-                </tr>
-            
-           
-            <tr>
-                <th scope="row" ></th>
-                <td > Dr. Thiago Torres Costa Pereira</td>
-                <td >Diagnóstico e Ecologia Ambiental</td>
+            <div class="col-md-4 mt-3 offset-md-2" >
               
-            </tr>
+              <div class="card">                
+              
+              
+                <div class="card-body">
+                  
+                 <img class="quadro mb-4" style="border: 1px solid black;height:150px;width: 85px;display: block;margin-left: auto;margin-right: auto;">
+                  <h4 class="card-title" style="min-height: 55px;">Dr. GUSTAVO HENRIQUE GRAVATIM COSTA</h4>
+                                    
+                </div>
 
-            <tr>
-                <th scope="row"></th>
-                <td> Dr. Thiago Gechel Kloss</td>
-                <td>Diagnóstico e Ecologia Ambiental</td>      
-            </tr>
+                    <ul class="list-group list-group-flush">  
+                        <li class="list-group-item" style="min-height: 75px;display: flex;align-items: center;">Titular</li>                    
+                          <li class="list-group-item" style="min-height: 75px;display: flex;align-items: center;">Coordernador</li>
+                    </ul>  
+                      
+                
+                    <div class="card-footer text-muted">
+                         yyyyyyy@....                      
+                    </div>
 
-             <tr>
-                <th scope="row" ></th>
-                <td > Dr. Alan Rodrigues Teixeira Machado</td>
-                <td >Tecnologia, Ambiente e Sociedade</td>      
-            </tr>
+              </div>
 
-            <tr>
-                <th scope="row" ></th>
-                <td > Dr. Maurício Bonatto Machado de Castilhos</td>
-                <td>Tecnologia, Ambiente e Sociedade</td>      
-            </tr>
+            </div>
+<!--Segundo Card-->
+            <div class="col-md-4 mt-3" >
+              
+              <div class="card ">
+                
+                  <div class="card-body">
+                 
+                     <img class="quadro mb-4" style="border: 1px solid black;height:150px;width: 85px;display: block;margin-left: auto;margin-right: auto;">         
+                           
+                   <h4 class="card-title" style="min-height: 55px;">Dra. Vanesca Korasaki </h4>
+                   
+                  </div>
 
-            </tbody>
+                <ul class="list-group list-group-flush">
+                    
+                      <li class="list-group-item" style="min-height: 75px;display: flex;align-items: center;">Suplente</li>
+                      <li class="list-group-item" style="min-height: 75px;display: flex;align-items: center;">Vice Coordenadora</li>
 
-            </table>
+                </ul>
 
-      </div>
+               
+                <div class="card-footer text-muted">
+                yyyyyyy@....
+                </div>  
 
+              </div>
+
+            </div>
+</div>
+<!--Terceiro Card-->
+<div class="row mb-5">
+            
+            <div class="col-md-4 mt-3 offset-md-2"  >
+              
+              <div class="card">                
+              
+              
+                <div class="card-body">
+                  
+                 <img class="quadro mb-4" style="border: 1px solid black;height:150px;width: 85px;display: block;margin-left: auto;margin-right: auto;"/>
+                  <h4 class="card-title" style="min-height: 55px;">Dra. OSANIA EMERENCIANO FERREIRA </h4>
+                                    
+                </div>
+
+                    <ul class="list-group list-group-flush">  
+                        <li class="list-group-item" style="min-height: 75px;display: flex;align-items: center;">Titular</li>                    
+                        <li class="list-group-item" style="min-height: 75px;display: flex;align-items: center;">Linha de Pesquisa: Diagnóstico e Ecologia Ambiental</li>
+                    </ul>  
+                      
+                
+                    <div class="card-footer text-muted">
+                         yyyyyyy@....                      
+                    </div>
+
+              </div>
+
+            </div>
+<!--Quarto Card-->
+            <div class="col-md-4 mt-3">
+              
+              <div class="card">
+                
+                  <div class="card-body">
+                 
+                    <img class="quadro mb-4" style="border: 1px solid black;height:150px;width: 85px;display: block;margin-left: auto;margin-right: auto;"/>
+               
+                   <h4 class="card-title" style="min-height: 55px;">Dr. Thiago Torres Costa Pereira </h4>
+                   
+                  </div>
+
+                <ul class="list-group list-group-flush">
+                    
+                      <li class="list-group-item" style="min-height: 75px;display: flex;align-items: center;">Suplente</li>
+                      <li class="list-group-item" style="min-height: 75px;display: flex;align-items: center;">Linha de Pesquisa: Diagnóstico e Ecologia Ambiental</li>
+
+                </ul>
+
+               
+                <div class="card-footer text-muted">
+                yyyyyyy@....
+                </div>  
+
+              </div>
+
+            </div>
+</div>
+<!--Quinto Card-->
+<div class="row mb-5">
+            
+            <div class="col-md-4 mt-3 offset-md-2" >
+              
+              <div class="card">                
+              
+              
+                <div class="card-body">
+                  
+                <img class="quadro mb-4" style="border: 1px solid black;height:150px;width: 85px;display: block;margin-left: auto;margin-right: auto;" />
+                  <h4 class="card-title" style="min-height: 55px;">Dra. RODRIGO NEY MILLAN </h4>
+                                    
+                </div>
+
+                    <ul class="list-group list-group-flush">  
+                        <li class="list-group-item" style="min-height: 75px;display: flex;align-items: center;">Titular</li>                    
+                        <li class="list-group-item" style="min-height: 75px;display: flex;align-items: center;">Linha de Pesquisa: Diagnóstico e Ecologia Ambiental</li>
+                    </ul>  
+                      
+                
+                    <div class="card-footer text-muted">
+                         yyyyyyy@....                      
+                    </div>
+
+              </div>
+
+            </div>
+<!--Sexto Card-->
+            <div class="col-md-4 mt-3">
+              
+              <div class="card">
+                
+                  <div class="card-body">
+                 
+                     <img class="quadro mb-4" style="border: 1px solid black;height:150px;width: 85px;display: block;margin-left: auto;margin-right: auto;"/>
+               
+                   <h4 class="card-title" style="min-height: 55px;">Dr. Thiago Gechel Kloss </h4>
+                   
+                  </div>
+
+                <ul class="list-group list-group-flush">
+                    
+                      <li class="list-group-item" style="min-height: 75px;display: flex;align-items: center;">Suplente</li>
+                      <li class="list-group-item" style="min-height: 75px;display: flex;align-items: center;">Linha de Pesquisa: Diagnóstico e Ecologia Ambiental</li>
+
+                </ul>
+
+               
+                <div class="card-footer text-muted">
+                yyyyyyy@....
+                </div>  
+
+              </div>
+
+            </div>
 </div>
 
+<!--Sétimo Card-->
+<div class="row mb-5">
+            
+            <div class="col-md-4 mt-3 offset-md-2" >
+              
+              <div class="card">                
+              
+              
+                <div class="card-body">
+                  
+                 <img class="quadro mb-4" style="border: 1px solid black;height:150px;width: 85px;display: block;margin-left: auto;margin-right: auto;"/>
+                  <h4 class="card-title" style="min-height: 55px;">Dra. STEFANIA LIMA OLIVEIRA METZKER </h4>
+                                    
+                </div>
 
+                    <ul class="list-group list-group-flush">  
+                        <li class="list-group-item" style="min-height: 75px;display: flex;align-items: center;">Titular</li>                    
+                        <li class="list-group-item" style="min-height: 75px;display: flex;align-items: center;">Linha de Pesquisa: Tecnologia, Ambiente e Sociedade</li>
+                    </ul>  
+                      
+                
+                    <div class="card-footer text-muted">
+                         yyyyyyy@....                      
+                    </div>
 
+              </div>
+
+            </div>
+<!--Oitavo Card-->
+            <div class="col-md-4 mt-3">
+              
+              <div class="card">
+                
+                  <div class="card-body">
+                 
+                    <img class="quadro mb-4" style="border: 1px solid black;height:150px;width: 85px;display: block;margin-left: auto;margin-right: auto;"/>
+
+                   <h4 class="card-title" style="min-height: 55px;">Dr. Alan Rodrigues Teixeira Machado  </h4>
+                   
+                  </div>
+
+                <ul class="list-group list-group-flush">
+                    
+                      <li class="list-group-item" style="min-height: 75px;display: flex;align-items: center;">Suplente</li>
+                      <li class="list-group-item" style="min-height: 75px;display: flex;align-items: center;">Linha de Pesquisa: Tecnologia, Ambiente e Sociedade</li>
+                </ul>
+
+               
+                <div class="card-footer text-muted">
+                yyyyyyy@....
+                </div>  
+
+              </div>
+
+            </div>
+</div>
+ 
+<!--Nono Card-->
+<div class="row mb-5">
+            
+            <div class="col-md-4 mt-3 offset-md-2">
+              
+              <div class="card">                
+              
+              
+                <div class="card-body">
+                  
+                 <img class="quadro mb-4" style="border: 1px solid black;height:150px;width: 85px;display: block;margin-left: auto;margin-right: auto;"/>
+                  <h4 class="card-title" style="min-height: 55px;">Dr. ALEXANDRE TÚLIO AMARAL NASCIMENTO </h4>
+                                    
+                </div>
+
+                    <ul class="list-group list-group-flush">  
+                        <li class="list-group-item" style="min-height: 75px;display: flex;align-items: center;">Titular</li>                    
+                        <li class="list-group-item" style="min-height: 75px;display: flex;align-items: center;">Linha de Pesquisa: Tecnologia, Ambiente e Sociedade</li>    
+                    </ul>  
+                      
+                
+                    <div class="card-footer text-muted">
+                         yyyyyyy@....                      
+                    </div>
+
+              </div>
+
+            </div>
+<!--Décimo Card-->
+            <div class="col-md-4 mt-3 mb-5">
+              
+              <div class="card">
+                
+                  <div class="card-body">
+                 
+                   <img class="quadro mb-4" style="border: 1px solid black;height:150px;width: 85px;display: block;margin-left: auto;margin-right: auto;"/>
+               
+                   <h4 class="card-title" style="min-height: 55px;">Dr. Maurício Bonatto Machado de Castilhos </h4>
+                   
+                  </div>
+
+                <ul class="list-group list-group-flush">
+                    
+                      <li class="list-group-item" style="min-height: 75px;display: flex;align-items: center;">Suplente</li>                      
+                      <li class="list-group-item" style="min-height: 75px;display: flex;align-items: center;">Linha de Pesquisa: Tecnologia, Ambiente e Sociedade</li>
+                </ul>
+
+               
+                <div class="card-footer text-muted">
+                yyyyyyy@....
+                </div>  
+
+              </div>
+
+            </div>
+        </div>
+    
+    </div>
 
 <?php
         require_once("footer.php");
