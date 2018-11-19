@@ -1,8 +1,8 @@
 
     <div class="container" style="margin-top:20px">
-        <h2 style="float:left;color:#46697d">Programa de Pós-Graduação em Ciencias Ambientais</h2>
-        <figure style="text-align: right">
-            <img src="IMG/logofrutal.png">
+        <h2 style="float:left;color:#46697d;text-align:center">Programa de Pós-Graduação em<br> Ciencias Ambientais</h2>
+        <figure style="text-align: right;">
+            <img src="IMG/logo.png" style="width: 32%;">
         </figure>
     <div class="row">
         <div id="carouselExampleControls" class="carousel slide col-md-8 offset-md-2 col-sm-12" data-ride="carousel">

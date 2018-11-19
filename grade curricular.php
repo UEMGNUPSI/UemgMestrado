@@ -17,7 +17,7 @@
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
 
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
-<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js" integrity="sha384-smHYKdLADwkXOn1EmN1qk/HfnUcbVRZyYmZ4qpPea6sjB/pTJ0euyQp0Mk8ck+5T" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js" integrity="sha384-smHYKdLADwkXOn1EmN1qk/HfnUcbVRZyYmZ4qpPea6sjB/pTJ0euyQp0Mk8ck+5T" crossorigin="anonymous"></script>
 </head>
 <body >
     <?php
@@ -25,12 +25,12 @@
     ?>  
         <button id="top" style= "position:fixed;top: 94%; left: 96%;" onclick="voltarTopo()">TOP</button>
         <div class="container" style="padding-left:5%;padding-right:5%;text-align: justify">
-            <div class="row" >
-                <h2> GRADE CURRICULAR </h2>
-            </div>
+           
+                <h2 style="padding-left:3%">GRADE CURRICULAR </h2>
+            
             <div> 
                 
-                <h3>Disciplinas Obrigatórias </h3>
+                <h4 style="padding-left:3%;margin-top:30px;margin-bottom:30px"><b style="color:#46697d">></b> Disciplinas Obrigatórias </h4>
                 <section class="accordion" id="DisciplinasObrigatórias">
                     <div class="card">
                         <div class="card-header" id="headingOne" style="border-radius: 30px 30px 0px 0px !important;background: white !important;">
@@ -148,7 +148,7 @@
                         </div>
                     </div>
 
-                    <h3>Disciplinas Optativas</h3>
+                    <h4 style="padding-left:3%;margin-top:30px;margin-bottom:30px"><b style="color:#46697d;">></b> Disciplinas Optativas</h4>
 
                     
                     <div class="card">
@@ -191,17 +191,17 @@
                         </div>
                         <div id="collapse6" class="collapse " aria-labelledby="headingOne" data-parent="#DisciplinasObrigatórias">
                             <div class="card-body">
-                            <p>Créditos: 2<br>Docente: Alexandre Túlio Amaral Nascimento </p>
-                            <p>Ementa: Diferenciação entre programas e projetos de pesquisa, extensão e monitoramento. Passo a passo da elaboração de projetos: título, introdução, objetivos, 
-                            justificativas, metodologias, impactos esperados, cronograma e orçamento. Ferramentas de gestão de projetos socioambientais. Elaboração de projetos.<br>
-                            Bibliografia:<br>
-                            BURSZTYN, M. A.; BURSZTYN, M. Fundamentos de Política e Gestão Ambiental: caminhos para a sustentabilidade. 1. ed. Rio de Janeiro: Garamond, 2013. <br>
-                            FREITAS, J. Sustentabilidade: direito ao futuro. 1. ed. Belo Horizonte. Fórum, 2011. <br>
-                            MCSHANE, T. O.; WELLS, E. M. P. Getting Biodiversity Projects to Work: towards a more effective conservation and development. New York: Columbia University Press, 2004. <br>
-                            PIRATELLI, A. J.; FRANCISCO, M. R. Conservação da Biodiversidade: dos conceitos às ações. 1. ed. Rio de Janeiro: Technical Books, 2013. <br>
-                            RAPS 2017 – Rede de Ação Política Pela Sustentabilidade. Empreendendo cidades e territórios sustentáveis. Disponível em: . Acesso em: 12 mai. 2018, 10:03:00. <br>
-                            SILVA, E. M. S.; PENEIREIRO, F. M.; STRABELI, J.; CARRAZZA, L. R. Guia de Elaboração de Pequenos Projetos Socioambientais para Organizações de Base Comunitária. Brasília: Instituto Sociedade, População e Natureza (ISPN), 2014.
-                            </p>
+                                <p>Créditos: 2<br>Docente: Alexandre Túlio Amaral Nascimento </p>
+                                <p>Ementa: Diferenciação entre programas e projetos de pesquisa, extensão e monitoramento. Passo a passo da elaboração de projetos: título, introdução, objetivos, 
+                                justificativas, metodologias, impactos esperados, cronograma e orçamento. Ferramentas de gestão de projetos socioambientais. Elaboração de projetos.<br>
+                                Bibliografia:<br>
+                                BURSZTYN, M. A.; BURSZTYN, M. Fundamentos de Política e Gestão Ambiental: caminhos para a sustentabilidade. 1. ed. Rio de Janeiro: Garamond, 2013. <br>
+                                FREITAS, J. Sustentabilidade: direito ao futuro. 1. ed. Belo Horizonte. Fórum, 2011. <br>
+                                MCSHANE, T. O.; WELLS, E. M. P. Getting Biodiversity Projects to Work: towards a more effective conservation and development. New York: Columbia University Press, 2004. <br>
+                                PIRATELLI, A. J.; FRANCISCO, M. R. Conservação da Biodiversidade: dos conceitos às ações. 1. ed. Rio de Janeiro: Technical Books, 2013. <br>
+                                RAPS 2017 – Rede de Ação Política Pela Sustentabilidade. Empreendendo cidades e territórios sustentáveis. Disponível em: . Acesso em: 12 mai. 2018, 10:03:00. <br>
+                                SILVA, E. M. S.; PENEIREIRO, F. M.; STRABELI, J.; CARRAZZA, L. R. Guia de Elaboração de Pequenos Projetos Socioambientais para Organizações de Base Comunitária. Brasília: Instituto Sociedade, População e Natureza (ISPN), 2014.
+                                </p>
                             </div>
                         </div>
                     </div>

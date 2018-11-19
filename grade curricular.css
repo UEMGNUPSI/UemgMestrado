@@ -15,3 +15,6 @@ button{
     background: #dfe1ed!important;
     border: none !important;
 }
+.mb-0{
+    overflow: auto !important;
+}
