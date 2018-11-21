@@ -8,6 +8,7 @@
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
     <!-- CSS -->
     <link rel="stylesheet" type="text/css" media="screen" href="menu.css" />
+    <link rel="stylesheet" type="text/css" media="screen" href="footer.css" />
     <link rel="stylesheet" type="text/css" media="screen" href="grade curricular.css" />
     <!-- JS -->
     <script src="Jquery3.3.1.js"></script>

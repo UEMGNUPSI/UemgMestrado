@@ -5,8 +5,52 @@
 </div>
 <div class="container-fluid" style="background: #FFFFFF;    box-shadow: 2px 0px 20px 0px;" >
 <div class='container'>
-    
-    
+    <div class="row" style="padding-top: 30px;">
+        <div class="col-md-3" style="margin-bottom: 10px;">
+            <div style="background:#F0F0F0;padding-left:4%;height:165px">
+                <p>&#9660; Apresentação</p>
+            
+                <li><a class="menu-footer" href="area de concentracao.php">Área de concentração</a></li>
+                <li><a class="menu-footer" href="creditos.php">Créditos</a></li>
+                <li><a class="menu-footer" href="objetivos.php">Objetivos</a></li>
+                <li><a class="menu-footer" href="perfil do egresso.php">Perfio do agresso</a></li>
+                <li><a class="menu-footer" href="publico alvo.php">Público alvo</a></li>
+            </div>
+        </div>
+
+        <div class="col-md-3" style="margin-bottom: 10px;">
+            <div style="background:#F0F0F0;padding-left:4%;height:165px">
+                <p>&#9660; Conselho do programa</p>
+                    
+                <li><a class="menu-footer" href="membrosconselho.php">Membros do conselho</a></li>
+                <li><a class="menu-footer" href="#">Calendário de reuniões</a></li>
+
+                <p style="margin-top:5px">&#9654; Normas e Diretrizes </p>
+
+                 <p>&#9654; <a class="menu-footer" href="grade curricular.php"> Grade curricular <a> </p>
+            </div>
+        </div>
+
+        <div class="col-md-3" style="margin-bottom: 10px;">
+            <div style="background:#F0F0F0;padding-left:4%;height:165px">
+                <p>&#9654; Pesquisa</p>
+
+                <p>&#9660; Pessoas </p>
+                <li><a class="menu-footer" href="docente.php">Docente</a></li>
+                <li><a class="menu-footer">Discente</a></li>
+            </div>
+        </div>
+
+        <div class="col-md-3" style="margin-bottom: 10px;">
+            <div style="background:#F0F0F0;padding-left:4%;height:165px">    
+                <p>&#9654; Processo seletivo</p>
+
+                 <p>&#9654; Fale conosco</p>
+            </div>
+        </div>
+
+       
+    </div>
     <div class="row" style="padding-top: 30px;">
         <div class="col-md-6 col-sm-12">
             <h6>Universidade Estadual, Pública, Gratuita e Multicampi</h6>
