@@ -132,7 +132,7 @@
                         <div id="collapse4" class="collapse " aria-labelledby="headingOne" data-parent="#DisciplinasObrigatórias">
                             <div class="card-body">
                             <p><b>Créditos</b>: 2<br><b>Docentes</b>: Maurício Bonatto Machado de Castilhos e Vanesca Korasaki</p>
-                            <p>Ementa: Populações, amostras e distribuições. Inferência estatística e amostragem. Amostragem. Variáveis categóricas e contínuas. Propriedades de distribuições normais. 
+                            <p><b>Ementa</b>: Populações, amostras e distribuições. Inferência estatística e amostragem. Amostragem. Variáveis categóricas e contínuas. Propriedades de distribuições normais. 
                             Intervalos de confiança. Escolha de níveis de significância em experimentos de campo e laboratório. Estimativa de variabilidade de amostras de distribuição normal. 
                             Delineamento e planejamento experimental. Teste de hipóteses. Análise univariada. Testes estatísticos associativos. Testes estatísticos comparativos paramétricos e não 
                             paramétricos. Testes estatísticos correlativos. Regressão linear. Regressões Múltiplas e correlações. Regressão polinomial múltipla. Análise Multivariada. Análise de 

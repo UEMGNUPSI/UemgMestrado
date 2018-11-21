@@ -20,32 +20,31 @@
         require_once("Head.php");
     ?>
         <div class="container" style="padding-left:5%;padding-right:5%;text-align: justify">
-            <div class="row" >
-                <h2> PERFIL DO EGRESSO  </h2>
-            </div>
-            <div class="row">
             
-                <p> O aluno egresso estará habilitado para atuar na docência e na pesquisa, gerando conhecimento científico de qualidade e relevante para a sociedade, nos seguintes temas:</p>
-                <ul>
-                    <li>Agroecologia</li>
-                    <li>Aproveitamento de Resíduos</li>
-                    <li>Bioenergia</li>
-                    <li>Desenvolvimento de produtos alimentícios</li>
-                    <li>Direito Ambiental</li>
-                    <li>Ecologia Aplicada </li>
-                    <li>Educação Ambienta </li>
-                    <li>Microbiologia agroambiental</li>
-                    <li>Monitoramento da Biodiversidade </li>
-                    <li>Monitoramento do solo e da água </li>
-                    <li>Tratamento de Resíduos</li>
-                </ul>
-                <p>Esse conhecimento interdisciplinar permitirá ao egresso a elaboração e aplicação de propostas de intervenção para as situações-problema com importante produto prático, 
-                pela execução de projetos de extensão comunitária.  </p>
-                <p>O curso permitirá que o egresso seja absorvido por instituições públicas e privadas que apresentem a finalidade de ensino e/ou pesquisa, assim como empresas 
-                agroindustriais, químicas, de alimentos, e de mineração, que buscam profissionais com senso crítico e capacitados a visão sistêmica do trinômio produção-ambiente-sociedade.</p>
-                <p>Além disso, o egresso será capacitado para atuar na gestão pública, envolvendo atribuições ligadas ao planejamento urbano e regional, monitoramento ambiental, fiscalização 
-                e perícia ambiental.</p>
-            </div>
+            <h2> PERFIL DO EGRESSO  </h2>
+            <br>
+        
+            <p> O aluno egresso estará habilitado para atuar na docência e na pesquisa, gerando conhecimento científico de qualidade e relevante para a sociedade, nos seguintes temas:</p>
+            <ul>
+                <li>Agroecologia</li>
+                <li>Aproveitamento de Resíduos</li>
+                <li>Bioenergia</li>
+                <li>Desenvolvimento de produtos alimentícios</li>
+                <li>Direito Ambiental</li>
+                <li>Ecologia Aplicada </li>
+                <li>Educação Ambienta </li>
+                <li>Microbiologia agroambiental</li>
+                <li>Monitoramento da Biodiversidade </li>
+                <li>Monitoramento do solo e da água </li>
+                <li>Tratamento de Resíduos</li>
+            </ul>
+            <p>Esse conhecimento interdisciplinar permitirá ao egresso a elaboração e aplicação de propostas de intervenção para as situações-problema com importante produto prático, 
+            pela execução de projetos de extensão comunitária.  </p>
+            <p>O curso permitirá que o egresso seja absorvido por instituições públicas e privadas que apresentem a finalidade de ensino e/ou pesquisa, assim como empresas 
+            agroindustriais, químicas, de alimentos, e de mineração, que buscam profissionais com senso crítico e capacitados a visão sistêmica do trinômio produção-ambiente-sociedade.</p>
+            <p>Além disso, o egresso será capacitado para atuar na gestão pública, envolvendo atribuições ligadas ao planejamento urbano e regional, monitoramento ambiental, fiscalização 
+            e perícia ambiental.</p>
+            
         </div>
     
     <?php

@@ -22,18 +22,16 @@
         require_once("Head.php");
     ?>
         <div class="container" style="padding-left:5%;padding-right:5%;text-align: justify">
-            <div class="row" >
+           
                 <h2> ÁREA DE CONCENTRAÇÃO </h2>
-            </div>
-            <div class="row">
-            
+                <br>
                 <li>Ciências Ambientais </li>
-                <br><br>
+                <br>
                 <p> Essa área de concentração destina-se a formação de docentes e pesquisadores de forma interdisciplinar nos temas: sociedade, tecnologia, diversidade biológica e ecológica,
                 monitoramento ambiental e tecnologia ambiental. Desta maneira, por meio de suas linhas de pesquisa, projetos, e das disciplinas a serem oferecidas, o programa promoverá a 
                 preservação ambiental, bem como a inovação e desenvolvimento tecnológico sustentável na área agroindustrial. Deve-se destacar ainda que as linhas de pesquisas são complementares, 
                 conectando cientistas naturais, das áreas tecnológicas ou exatas, em torno de temas que se enquadrem na interface sociedade humana/sistema.</p>
-            </div>
+            
         </div>
     
     <?php

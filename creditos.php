@@ -20,32 +20,33 @@
         require_once("Head.php");
     ?>
         <div class="container" style="padding-left:5%;padding-right:5%">
-            <div class="row" >
+            
                 <h2> CRÉDITOS </h2>
-            </div>
+                <br>
             <div class="row">
-                <table class="col-7">
-                    <tr> 
+            
+                <table class="col-10 offset-1 col-md-7 offset-md-0">
+                    <tr style="border-bottom:1px solid"> 
                         <td>Créditos Disciplinas Obrigatórias</td>
                         <td> 10 </td>
                     </tr>
-                    <tr> 
+                    <tr style="border-bottom:1px solid"> 
                         <td>Crédito de Disciplinas Optativas </td>
                         <td> 6 </td>
                     </tr>
-                    <tr> 
+                    <tr style="border-bottom:1px solid"> 
                         <td>Créditos Tese/Dissertação </td>
                         <td> 6 </td>
                     </tr>
-                    <tr> 
+                    <tr style="border-bottom:1px solid"> 
                         <td> Créditos de Atividades Técnico-Científicas Complementares  </td>
                         <td> 4 </td>
                     </tr>
-                    <tr> 
+                    <tr style="border-bottom:1px solid"> 
                         <td> Total de Créditos   </td>
                         <td> 26 </td>
                     </tr>
-                    <tr> 
+                    <tr style="border-bottom:1px solid"> 
                         <td> Equivalência hora/crédito    </td>
                         <td> 15 </td>
                     </tr>

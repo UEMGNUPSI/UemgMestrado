@@ -20,16 +20,14 @@
         require_once("Head.php");
     ?>
         <div class="container" style="padding-left:5%;padding-right:5%;text-align: justify">
-            <div class="row" >
-                <h2> OBJETIVOS </h2>
-            </div>
-            <div class="row">
             
-                <p> O objetivo do programa é preparar o aluno para a pesquisa e o exercício do magistério superior, através de competências interdisciplinares, 
-                tendo em vista os desafios gerados pela relação ambiente-sociedade, capacitando-o a resolução de problemas reais no âmbito do monitoramento ambiental e 
+            <h2> OBJETIVOS </h2>
+            <br>
+            <p> O objetivo do programa é preparar o aluno para a pesquisa e o exercício do magistério superior, através de competências interdisciplinares, 
+            tendo em vista os desafios gerados pela relação ambiente-sociedade, capacitando-o a resolução de problemas reais no âmbito do monitoramento ambiental e 
                 desenvolvimento de tecnologias para mitigação dos impactos antrópicos ao meio ambiente.</p>
                 
-            </div>
+            
         </div>
     
     <?php

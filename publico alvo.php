@@ -20,14 +20,9 @@
         require_once("Head.php");
     ?>
         <div class="container" style="padding-left:5%;padding-right:5%;text-align: justify">
-            <div class="row" >
-                <h2> PÚBLICO ALVO </h2>
-            </div>
-            <div class="row">
-            
-                <p> Profissionais que apresentem graduação em nível superior completo em áreas afins as Ciências Ambientais.</p>
-                
-            </div>
+            <h2> PÚBLICO ALVO </h2>
+            <br>
+            <p> Profissionais que apresentem graduação em nível superior completo em áreas afins as Ciências Ambientais.</p>
         </div>
     
     <?php

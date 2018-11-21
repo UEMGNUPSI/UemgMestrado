@@ -23,27 +23,21 @@
     ?>
 
     <div class="container" style="padding-left:5%;padding-right:5%;text-align: justify">
-            <div class="row" >
-                <h2> LINHAS DE PESQUISA </h2>
-            </div>
+           
+        <h2> LINHAS DE PESQUISA </h2>
+        <br>
+        <li>Diagnóstico e Ecologia Ambiental</li>
+        <br>
+        <p> Os projetos desenvolvidos nesta linha de pesquisa visam o monitoramento ambiental para o levantamento dos aspectos ecológicos, geográficos e hídricos, 
+        promovendo a compreensão e ampliação dos conhecimentos sobre a biodiversidade, os ecossistemas e a ação das atividades antrópicas sobre os recursos naturais;
+        contribuindo para tomada de decisões sobre o uso racional, manejo e conservação dos recursos naturais.</p>
             <br>
-            <div class="row">
-            
-                <li>Diagnóstico e Ecologia Ambiental</li>
-                <br><br>
-                <p> Os projetos desenvolvidos nesta linha de pesquisa visam o monitoramento ambiental para o levantamento dos aspectos ecológicos, geográficos e hídricos, 
-                promovendo a compreensão e ampliação dos conhecimentos sobre a biodiversidade, os ecossistemas e a ação das atividades antrópicas sobre os recursos naturais;
-                contribuindo para tomada de decisões sobre o uso racional, manejo e conservação dos recursos naturais.</p>
+        <li>Tecnologia, Ambiente e Sociedade</li>
+        <br>
+        <p> Os estudos desenvolvidos nessa linha contribuirão para o desenvolvimento de tecnologias inovadoras que minimizem os impactos gerados pela ação antrópica no 
+        meio ambiente, a partir do desenvolvimento de métodos e materiais para o controle ambiental e produção sustentável. Também será trabalhado a reutilização de resíduos 
+        agroindustriais, químicos e minerais, ênfase na bioenergia, produção de alimentos e educação ambiental; objetivando o bem estar e a qualidade de vida da sociedade.</p>
 
-                <li>Tecnologia, Ambiente e Sociedade</li>
-                <br><br>
-                <p> Os estudos desenvolvidos nessa linha contribuirão para o desenvolvimento de tecnologias inovadoras que minimizem os impactos gerados pela ação antrópica no 
-                meio ambiente, a partir do desenvolvimento de métodos e materiais para o controle ambiental e produção sustentável. Também será trabalhado a reutilização de resíduos 
-                agroindustriais, químicos e minerais, ênfase na bioenergia, produção de alimentos e educação ambiental; objetivando o bem estar e a qualidade de vida da sociedade.</p>
-
-
-
-            </div>
         </div>
 
 
