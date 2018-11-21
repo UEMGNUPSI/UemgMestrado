@@ -18,8 +18,9 @@
 
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js" integrity="sha384-smHYKdLADwkXOn1EmN1qk/HfnUcbVRZyYmZ4qpPea6sjB/pTJ0euyQp0Mk8ck+5T" crossorigin="anonymous"></script>
+    <link href="https://fonts.googleapis.com/css?family=Arimo" rel="stylesheet">
 </head>
-<body >
+<body style="font-family: 'Arimo', sans-serif;">
     <?php
         require_once("Head.php");
     ?>  
@@ -32,6 +33,7 @@
                 
                 <h4 style="padding-left:3%;margin-top:30px;margin-bottom:30px"><b style="color:#46697d">></b> Disciplinas Obrigatórias </h4>
                 <section class="accordion" id="DisciplinasObrigatórias">
+
                     <div class="card">
                         <div class="card-header" id="headingOne" style="border-radius: 30px 30px 0px 0px !important;background: white !important;">
                             <h5 class="mb-0">
@@ -42,12 +44,13 @@
                         </div>
                         <div id="collapse1" class="collapse " aria-labelledby="headingOne" data-parent="#DisciplinasObrigatórias">
                             <div class="card-body">
-                                <p>Créditos: 4 <br>Docentes: Gustavo Henrique Gravatim Costa, Alexandre Túlio Amaral Nascimento e Viviane Modesto Arruda</p>
-                                <p> Ementa: Fundamentos de ciências ambientais necessários para a formação interdisciplinar do aluno, através de estudos de problemas associados ao ambiente, paisagem sob o 
-                                ponto de vista geográfico e ecológico, relacionando-os com os impactos sobre a sociedade, bem como apresentando soluções tecnológicas para os problemas. <br> Bibliografia: <br>
+                                <p><b>Créditos</b>: 4 <br><b>Docentes</b>: Gustavo Henrique Gravatim Costa, Alexandre Túlio Amaral Nascimento e Viviane Modesto Arruda</p>
+                                <p><b>Ementa</b>: Fundamentos de ciências ambientais necessários para a formação interdisciplinar do aluno, através de estudos de problemas associados ao ambiente, paisagem sob o 
+                                ponto de vista geográfico e ecológico, relacionando-os com os impactos sobre a sociedade, bem como apresentando soluções tecnológicas para os problemas. <br> 
+                                <p><b>Bibliografia</b>: 
                                 AB’ SABER, A. N. Os Domínios de Natureza no Brasil: Potencialidades paisagísticas. São Paulo: Ateliê Editorial, 2003. <br>
                                 ALLAN, J. D.; CASTILLO, M. M. Stream Ecology: Structure and function of running waters. 2. ed. New York. Springer, 2007. 436 p. <br>
-                                AMADO, F. A. T. Direito Ambiental. 8. ed. Salvador: JusPODIVM, 2017. 976 p. CARVALHO, I. C. M. Educação ambiental: a formação do sujeito ecológico. 3. ed. São Paulo: Cortez, 2008. 256 p. 
+                                AMADO, F. A. T. Direito Ambiental. 8. ed. Salvador: JusPODIVM, 2017. 976 p. CARVALHO, I. C. M. Educação ambiental: a formação do sujeito ecológico. 3. ed. São Paulo: Cortez, 2008. 256 p. <br>
                                 CORTEZ, L. A. B. Bioetanol de cana- de-açúcar: P&D para produtividade e sustentabilidade. 1. ed. São Paulo: Blucher: FAPESP, 2010. <br>
                                 CUNHA, S. B.; GUERRA, A. J. T. A questão ambiental: diferentes abordagens. 3. ed. Rio de Janeiro: Bertrand Brasil, 2007. <br>
                                 GUERRA, A. J. T.; MARÇAL, M. S. Geomorfologia Ambiental. Rio de Janeiro: Bertrand Brasil, 2006, 192 p. <br>
@@ -55,7 +58,7 @@
                                 MAGALHÃES JÚNIOR, A. P. Indicadores ambientais e recursos hídricos: realidade e perspectivas para o Brasil a partir da experiência francesa. Rio de Janeiro: Bertrand Brasil, 2007. 686 p. <br>
                                 MOURA, L. A. A. Qualidade e gestão ambiental: sustentabilidade e ISO 14.001. 6. ed. Belo Horizonte: Del Rey, 2011. <br>
                                 ROSS J. L. S. Ecogeografia do Brasil: subsídios para planejamento ambiental. São Paulo: Oficina de Textos, 2009. <br>
-                                ROSS, J. L. S. Geomorfologia: ambiente e planejamento. 7. ed. São Paulo: Contexto, 2003. 85 p.
+                                ROSS, J. L. S. Geomorfologia: ambiente e planejamento. 7. ed. São Paulo: Contexto, 2003. 85 p.</p>
                                 </p>
                             </div>
                         </div>
@@ -71,16 +74,16 @@
                         </div>
                         <div id="collapse2" class="collapse " aria-labelledby="headingOne" data-parent="#DisciplinasObrigatórias">
                             <div class="card-body">
-                            <p>Créditos: 2<br>Docentes: Rodrigo Ney Millan e Alan Rodrigues Teixeira Machado  </p>
-                            <p>Ementa: Abordagem dos aspectos conceituais, metodológicos e etapas necessárias ao desenvolvimento de pesquisas. Ética na pesquisa. Técnicas de oratória e protocolo de 
+                            <p><b>Créditos</b>: 2<br><b>Docentes</b>: Rodrigo Ney Millan e Alan Rodrigues Teixeira Machado  </p>
+                            <p><b>Ementa</b>: Abordagem dos aspectos conceituais, metodológicos e etapas necessárias ao desenvolvimento de pesquisas. Ética na pesquisa. Técnicas de oratória e protocolo de 
                             apresentação para públicos. Utilização de recursos audiovisuais. Apresentação dos projetos de pesquisa dos alunos. Análise das etapas alcançadas pelos alunos em suas
                             pesquisas de acordo com o cronograma de atividades, permitindo a adequação e pleno desenvolvimento dos projetos.<br>
-                            Bibliografia: <br>
+                            <p><b>Bibliografia</b>: 
                             Devido à natureza da atividade, a maior parte das referências bibliográficas são as mesmas utilizadas pelos alunos em seus projetos de pesquisa. . ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. NBR 14724: informação e documentação: trabalhos acadêmicos: apresentação. Rio de Janeiro, 2011. <br>
                             GIL, A. C. Como elaborar projetos de pesquisa. 4 ed. São Paulo: Atlas, 2002. 175 p. 
                             MATIAS-PEREIRA, J. Manual de metodologia da pesquisa científica. 3. ed. São Paulo: Atlas, 2012. 196 p. <br>
                             MARCONI, M. A.; LAKATOS, E. M. Fundamentos de metodologia científica. 7. ed. São Paulo: Atlas, 2010. 297 p.<br> 
-                            VOLPATO, G. L. Ciência: da filosofia à publicação. 6. ed. São Paulo: Cultura Acadêmica, 2013.
+                            VOLPATO, G. L. Ciência: da filosofia à publicação. 6. ed. São Paulo: Cultura Acadêmica, 2013.</p>
                             </p>
                             </div>
                         </div>
@@ -96,12 +99,12 @@
                         </div>
                         <div id="collapse3" class="collapse " aria-labelledby="headingOne" data-parent="#DisciplinasObrigatórias">
                             <div class="card-body">
-                            <p>Créditos: 2<br>Docentes: Stefania Lima Oliveira Metzker, Thiago Gechel Kloss e Thiago Torres Costa Pereira</p>
-                            <p>Ementa: Fornecimento de elementos teóricos para a compreensão do texto científico, suas características e especificidades, bem como técnicas de estruturação e redação 
+                            <p><b>Créditos</b>: 2<br><b>Docentes</b>: Stefania Lima Oliveira Metzker, Thiago Gechel Kloss e Thiago Torres Costa Pereira</p>
+                            <p><b>Ementa</b>: Fornecimento de elementos teóricos para a compreensão do texto científico, suas características e especificidades, bem como técnicas de estruturação e redação 
                             das diferentes modalidades deste gênero textual, tais como: projetos de pesquisa, relatórios de pesquisa, resumos, artigos originais e de revisão, dissertações e teses. 
                             Indicação de questões voltadas para os aspectos éticos na escrita, bem como a respeito de autoria e direito autoral. Utilização das bases de dados científicos com abordagem 
                             prática. Elaboração e análise crítica de artigo científico.<br>
-                            Bibliografia: <br>
+                            <p><b>Bibliografia</b>:
                             ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. NBR 6023: Informação e documentação: referências: elaboração. Rio de Janeiro, 2002. <br>
                             ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. NBR 10520: Informação e documentação: citações em documentos: apresentação. Rio de Janeiro, 2002. <br>
                             ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. NBR 15287: Informação e documentação: projeto de pesquisa: apresentação. Rio de Janeiro, 2005. <br>
@@ -111,7 +114,7 @@
                             MATIAS-PEREIRA, J. Manual de metodologia da pesquisa científica. 3. ed. São Paulo: Atlas, 2012. 196 p. <br>
                             MARCONI, M. A.; LAKATOS, E. M. Fundamentos de metodologia científica. 7. ed. São Paulo: Atlas, 2010. 297 p. <br>
                             VOLPATO, G. Bases teóricas para redação científica. São Paulo: Cultura Acadêmica, 2007. <br>
-                            VOLPATO, G. L. Ciência: da filosofia à publicação. 6. ed. São Paulo: Cultura Acadêmica, 2013. <br>
+                            VOLPATO, G. L. Ciência: da filosofia à publicação. 6. ed. São Paulo: Cultura Acadêmica, 2013. </p>
                             </p>
                             </div>
                         </div>
@@ -127,14 +130,14 @@
                         </div>
                         <div id="collapse4" class="collapse " aria-labelledby="headingOne" data-parent="#DisciplinasObrigatórias">
                             <div class="card-body">
-                            <p> Créditos: 2<br>Docentes: Maurício Bonatto Machado de Castilhos e Vanesca Korasaki</p>
+                            <p><b>Créditos</b>: 2<br><b>Docentes</b>: Maurício Bonatto Machado de Castilhos e Vanesca Korasaki</p>
                             <p>Ementa: Populações, amostras e distribuições. Inferência estatística e amostragem. Amostragem. Variáveis categóricas e contínuas. Propriedades de distribuições normais. 
                             Intervalos de confiança. Escolha de níveis de significância em experimentos de campo e laboratório. Estimativa de variabilidade de amostras de distribuição normal. 
                             Delineamento e planejamento experimental. Teste de hipóteses. Análise univariada. Testes estatísticos associativos. Testes estatísticos comparativos paramétricos e não 
                             paramétricos. Testes estatísticos correlativos. Regressão linear. Regressões Múltiplas e correlações. Regressão polinomial múltipla. Análise Multivariada. Análise de 
                             Componentes Principais (PCA). Análise de Cluster com Escalonamento Multidimensional. Planejamento experimental fatorial (categorias e tipos). Análise de otimização de 
                             experimentos – Superfície de Resposta. <br>
-                            Bibliografia: <br>
+                            <p><b>Bibliografia</b>:
                             BARBOSA, J. C.; MALDONADO JÚNIOR, W. Experimentação Agronômica & AgroEstat – Sistemas para análise estatística de ensaios agronômicos. Jaboticabal: Funep, 2015. 396 p. <br>
                             BARNETT, V. Environmental statistics. New York: John Wiley & Sons, 2004. 293 p. <br>
                             GOMES, F. P. Curso de estatística experimental. 15. ed. Piracicaba: Fundação de Estudos Agrários Luiz de Queiroz, 2009. 450 p. <br>
@@ -142,7 +145,7 @@
                             HAIR, J. F.; BLACK, W. C.; BABIN, B. J.; ANDERSON, R. E.; TATHAM, R. L. Análise Multivariada de Dados. 6. ed. Porto Alegre: Bookman, 2009. MOORE, D. A estatística básica e 
                             sua prática. 2. ed. Rio de Janeiro: Livros Técnicos e Científicos, 2004. <br>
                             NETO, B. B.; SCARMINIO, I. S.; BRUNS, R. E. Como fazer experimentos. 4 ed. Porto Alegre: Bookman, 2010. ZAR, J. H. Biostatistical Analysis. 5. ed. Upper Saddle River: 
-                            Prentice-Hall/Pearson, 2010. 944p. <br>
+                            Prentice-Hall/Pearson, 2010. 944p.</p>
                             </p>
                             </div>
                         </div>
@@ -161,10 +164,10 @@
                         </div>
                         <div id="collapse5" class="collapse " aria-labelledby="headingOne" data-parent="#DisciplinasObrigatórias">
                             <div class="card-body">
-                            <p>Créditos: 2<br>Docente: Alan Rodrigues Teixeira Machado </p>
-                            <p>Ementa: Princípios básicos. Equilíbrio e termodinâmica da adsorção. Cinética de adsorção. Adsorção em colunas de leito fixo. Metodologia experimental. 
+                            <p><b>Créditos</b>: 2<br><b>Docente</b>: Alan Rodrigues Teixeira Machado </p>
+                            <p><b>Ementa</b>: Princípios básicos. Equilíbrio e termodinâmica da adsorção. Cinética de adsorção. Adsorção em colunas de leito fixo. Metodologia experimental. 
                             Caracterização de materiais adsorventes. <br>
-                            Bibliografia:<br>
+                            <p><b>Bibliografia</b>:
                             GREGG, S. J.; SING, K. S. W. Adsorption Surface Area and Porosity. Academic Press: London, 1982. <br>
                             ADAMSON, W. Physical Chemistry of Surfaces. New York: John Wiley and Sons, 1976. 
                             GASSES, R. P. An Introduction to Chemissorption and Catalysis by Metals. Oxford: Oxford Science Publications, 1987. <br>
@@ -175,7 +178,7 @@
                             Imprensa Universitária, 2014. 256 p. <br>
                             ATKINS, P. W.; JONES, L. Princípios de química: questionando a vida moderna e o meio ambiente. 3. ed. Porto Alegre: Bookman, 2006. 965 p. RUSSELL, J. B. Química geral. 2.ed. São Paulo: Makron Books, 1994. <br>
                             BROWN, T. L. LEMAY Jr, B. E, BURSTEN, J. R. Química: a ciência central. 9. ed. Rio de Janeiro: Pearson Prentice Hall, 2005. 972p. <br>
-                            VOGEL, A. I.; GIMENO, A. Química analítica qualitativa. 5. ed. São Paulo: Mestre Jou, 1981. 665p. 
+                            VOGEL, A. I.; GIMENO, A. Química analítica qualitativa. 5. ed. São Paulo: Mestre Jou, 1981. 665p.</p> 
                             </p>
                             </div>
                         </div>
@@ -191,16 +194,16 @@
                         </div>
                         <div id="collapse6" class="collapse " aria-labelledby="headingOne" data-parent="#DisciplinasObrigatórias">
                             <div class="card-body">
-                                <p>Créditos: 2<br>Docente: Alexandre Túlio Amaral Nascimento </p>
-                                <p>Ementa: Diferenciação entre programas e projetos de pesquisa, extensão e monitoramento. Passo a passo da elaboração de projetos: título, introdução, objetivos, 
+                                <p><b>Créditos</b>: 2<br><b>Docente</b>: Alexandre Túlio Amaral Nascimento </p>
+                                <p><b>Ementa</b>: Diferenciação entre programas e projetos de pesquisa, extensão e monitoramento. Passo a passo da elaboração de projetos: título, introdução, objetivos, 
                                 justificativas, metodologias, impactos esperados, cronograma e orçamento. Ferramentas de gestão de projetos socioambientais. Elaboração de projetos.<br>
-                                Bibliografia:<br>
+                                <p><b>Bibliografia</b>:
                                 BURSZTYN, M. A.; BURSZTYN, M. Fundamentos de Política e Gestão Ambiental: caminhos para a sustentabilidade. 1. ed. Rio de Janeiro: Garamond, 2013. <br>
                                 FREITAS, J. Sustentabilidade: direito ao futuro. 1. ed. Belo Horizonte. Fórum, 2011. <br>
                                 MCSHANE, T. O.; WELLS, E. M. P. Getting Biodiversity Projects to Work: towards a more effective conservation and development. New York: Columbia University Press, 2004. <br>
                                 PIRATELLI, A. J.; FRANCISCO, M. R. Conservação da Biodiversidade: dos conceitos às ações. 1. ed. Rio de Janeiro: Technical Books, 2013. <br>
                                 RAPS 2017 – Rede de Ação Política Pela Sustentabilidade. Empreendendo cidades e territórios sustentáveis. Disponível em: . Acesso em: 12 mai. 2018, 10:03:00. <br>
-                                SILVA, E. M. S.; PENEIREIRO, F. M.; STRABELI, J.; CARRAZZA, L. R. Guia de Elaboração de Pequenos Projetos Socioambientais para Organizações de Base Comunitária. Brasília: Instituto Sociedade, População e Natureza (ISPN), 2014.
+                                SILVA, E. M. S.; PENEIREIRO, F. M.; STRABELI, J.; CARRAZZA, L. R. Guia de Elaboração de Pequenos Projetos Socioambientais para Organizações de Base Comunitária. Brasília: Instituto Sociedade, População e Natureza (ISPN), 2014.</p>
                                 </p>
                             </div>
                         </div>
@@ -216,12 +219,12 @@
                         </div>
                         <div id="collapse7" class="collapse " aria-labelledby="headingOne" data-parent="#DisciplinasObrigatórias">
                             <div class="card-body">
-                            <p>Créditos: 2<br>Docente: André Serotini</p>
-                            <p>Ementa: Fornecer um referencial analítico-jurídico básico para interlocução entre o direito e as questões relacionada ao meio ambiente, em especial, como instrumento de 
+                            <p><b>Créditos</b>: 2<br><b>Docente</b>: André Serotini</p>
+                            <p><b>Ementa</b>: Fornecer um referencial analítico-jurídico básico para interlocução entre o direito e as questões relacionada ao meio ambiente, em especial, como instrumento de 
                             diálogo e debates interdisciplinares com as temáticas abordadas no Programa de Mestrado em Ciências Ambientais, para tanto, esta disciplina abordará o histórico da Política 
                             Pública de Meio Ambiente; a Política Nacional do Meio Ambiente (Lei nº. 6.938/81); Tutela Constitucional do Meio Ambiente; Avaliação e Estudo de Impactos Ambientais; 
                             Licenciamento e Fiscalização Ambiental; e, Responsabilidade Ambiental.</p>
-                            Bibliografia:<br>
+                            <p><b>Bibliografia</b>:
                             BELTRÃO, A. Manual de Direito Ambiental. São Paulo: Método, 2008. <br>
                             BENJAMIN, A. H. (org.). Congresso internacional de direito ambiental. Direitos Humanos e Meio Ambiente. Homenagem ao Prof. Michel Prieur. São Paulo: Imprensa Oficial do Estado de São Paulo, 2006. <br>
                             BESSA, P. A. Direito Ambiental. 14. ed. São Paulo: Atlas, 2008. BEURIER, J. P. Droit international de l’environnement. Paris: Pedone, 2010. <br>
@@ -235,7 +238,7 @@
                             OLIVEIRA, C. C., SAMPAIO, R. S. R. (Org.). A economia verde no contexto do desenvolvimento sustentável: a governança dos atores públicos e privados. 1. ed. Rio de Janeiro: FGV, 2011. <br>
                             OLIVEIRA, C. C., SAMPAIO, R. S. R. (Org.). Instrumentos jurídicos para a implementação do desenvolvimento sustentável. 1. ed. Rio de Janeiro: FGV, 2012. <br>
                             SARLET, I. W.; FENSTERSEIFER, T. Direito constitucional ambiental: Constituição, direitos fundamentais e proteção ao meio ambiente. São Paulo: Revista dos Tribunais, 2016. <br>
-                            SILVA, J. A. Direito Ambiental Constitucional. 4. ed. São Paulo: Malheiros Editores, 2011
+                            SILVA, J. A. Direito Ambiental Constitucional. 4. ed. São Paulo: Malheiros Editores, 2011.</p>
                             </p>
                             </div>
                         </div>
@@ -251,10 +254,10 @@
                         </div>
                         <div id="collapse8" class="collapse " aria-labelledby="headingOne" data-parent="#DisciplinasObrigatórias">
                             <div class="card-body">
-                            <p>Créditos: 2<br>Docente: Gustavo Henrique Gravatim Costa e Osania Emerenciano Ferreira</p>
-                            <p>Ementa: Fontes de energia convencionais e não-convencionais. Matriz energética brasileira x mundial. Sucroenergia. Biogás. Biodiesel. Biomassa lignocelulósica. 
+                            <p><b>Créditos</b>: 2<br><b>Docente</b>: Gustavo Henrique Gravatim Costa e Osania Emerenciano Ferreira</p>
+                            <p><b>Ementa</b>: Fontes de energia convencionais e não-convencionais. Matriz energética brasileira x mundial. Sucroenergia. Biogás. Biodiesel. Biomassa lignocelulósica. 
                             Aproveitamento dos resíduos agroindustriais.<br>
-                            Bibliografia: <br>
+                            <p><b>Bibliografia:</b>
                             CORTEZ, L. A. B. Bioetanol de cana-de-açúcar: P&D para produtividade e sustentabilidade. 1. ed. São Paulo: Blucher: FAPESP, 2010. <br>
                             FYTILI, D.; ZABANIOTOU, A. Social acceptance of bioenergy in the context of climate change and sustainability – a review. Current Opinion in Green and Sustainable Chemistry, v. 8, p. 5-9, 2017. <br>
                             GOLDEMBERG, J. Energia e desenvolvimento sustentável. São Paulo: Blucher, 2010. <br>
@@ -263,7 +266,7 @@
                             MATHIOUDAKIS, V.; GERBENS-LEENES, P. W.; VAN DER MEER, T. H.; HOEKSTRA, A. Y. The water footprint of second-generation bioenergy: A comparison of biomass feedstocks and conversion techniques. Journal of Cleaner Production, v. 178, p. 571-582, 2017. <br>
                             NEVES, M. F. Caminhos da cana. São Paulo: CanaOeste, 2014. <br>
                             RAMOS, L. P.; KHOTE, V.; OLIVEIRA, M. A. F. C.; WYPYCH, A. S. M.; NAKAGAKI, S.; KRIEGER, N.; WYPYCH, F.; CORDEIRO, C. S. Biodiesel: Matérias-Primas, Tecnologias de Produção e Propriedades Combustíveis. Revista Virtual de Química, v. 9, n. 1, 2017. <br>
-                            REIS, L. B.; FADIGAS, E. A. A.; CARVALHO, C. E. Energia, recursos naturais e a prática do desenvolvimento sustentável. 2. ed. Barueri: Manole, 2012.
+                            REIS, L. B.; FADIGAS, E. A. A.; CARVALHO, C. E. Energia, recursos naturais e a prática do desenvolvimento sustentável. 2. ed. Barueri: Manole, 2012.</p>
                             </p>
                             </div>
                         </div>
@@ -279,12 +282,12 @@
                         </div>
                         <div id="collapse9" class="collapse " aria-labelledby="headingOne" data-parent="#DisciplinasObrigatórias">
                             <div class="card-body">
-                            <p>Créditos: 2<br>Docente: Jhansley Ferreira da Mata</p>
-                            <p>Ementa: Estudo dos problemas da agricultura convencional sob as óticas ecológica, econômica e social; agroecologia: conceitos e princípios; visão das diferentes escolas; 
+                            <p><b>Créditos</b>: 2<br><b>Docente</b>: Jhansley Ferreira da Mata</p>
+                            <p><b>Ementa</b>: Estudo dos problemas da agricultura convencional sob as óticas ecológica, econômica e social; agroecologia: conceitos e princípios; visão das diferentes escolas; 
                             enfoque sistêmico; construção de diagramas; desenho de agroecossistemas sustentáveis e a aplicação de conceitos e princípios; valoração ambiental/externalidades; interface 
                             agricultura/áreas de proteção; inserção da proposta agroecológica na agricultura familiar - diagnósticos participativos; transição para agroecologia - etapas; diagnóstico de 
                             agroecossistemas; avaliação da transição através de indicadores de sustentabilidade.<br>
-                            Bibliografia:<br>
+                            <p><b>Bibliografia</b>:
                             ALTIERI, M. Linking ecologists and traditional farmers in the search for sustainable agriculture. Frontiers in Ecology and the Environment, v. 2, n. 1, p. 35-42, 2004. <br>
                             ALTIERI, M. Agroecologia: a dinâmica produtiva da agricultura sustentável. Rio Grande do Sul: UFRGS, 2009. <br>
                             ALTIERI, M. Por qué estudiar la agricultura tradicional? In: GONÇÁLEZ A, J. A.; GONÇALEZ DE MOLINA, M. (Ed.). La tierra: mitos, ritos y realidades, 1992. p. 332-350. ALTIERI, M. Agroecologia: bases científicas para uma agricultura sustentável. Guaíba: Agropecuária; AS-PTA, 2002. <br>
@@ -304,7 +307,7 @@
                             REIJNTJES, C., HAVERKORT, B., WALTER-BAYER, A. Agricultura para o Futuro. Uma Introdução a Agricultura Sustentável e de baixo uso de insumo. AS-PTA, 1999. <br>
                             SILIPRANDI, E. Desafios para a extensão rural: o "social" na transição agroecológica. Agroecologia e Desenvolvimento Rural Sustentável, v. 3, n. 3, p. 38-48, 2002. <br>
                             TILMAN, D.; CASSMAN, K. G.; MATSON, P. A.; NAYLOR, R.; POLASKY, S. Agricultural sustainability and intensive production practice. Nature, v. 418, p. 671-677, 2002. <br>
-                            VIVAM, J. L. Agricultura e Florestas: Princípios de Uma Interação Vital Agropecuária. Guaiba: Agropecuária, 1998. <br>
+                            VIVAM, J. L. Agricultura e Florestas: Princípios de Uma Interação Vital Agropecuária. Guaiba: Agropecuária, 1998. </p>
                             </p>
                             </div>
                         </div>
@@ -320,11 +323,11 @@
                         </div>
                         <div id="collapse10" class="collapse " aria-labelledby="headingOne" data-parent="#DisciplinasObrigatórias">
                             <div class="card-body">
-                            <p>Crédito: 2<br>Docente: Leandro de Souza Pinheiro</p>
-                            <p>Ementa: A dinâmica da erosão hídrica em bacias hidrográficas e impactos do uso e manejo do solo. Características pedológicas que influenciam no processo erosivo. 
+                            <p><b>Crédito</b>: 2<br><b>Docente</b>: Leandro de Souza Pinheiro</p>
+                            <p><b>Ementa</b>: A dinâmica da erosão hídrica em bacias hidrográficas e impactos do uso e manejo do solo. Características pedológicas que influenciam no processo erosivo. 
                             Química de solos. Técnicas e monitoramento dos processos erosivos aplicados à morfodinâmica das vertentes. A modelagem erosiva na predição de perdas de solo por erosão. 
                             O uso de geoprocessamento nas pesquisas indutivas e dedutivas de perdas de solo.<br>
-                            Bibliografia:<br>
+                            <p><b>Bibliografia</b>:
                             BERTONI, J.; LOMBARDI NETO, F. Conservação do Solo. 8. ed. São Paulo: Ícone, 2013.<br>
                             BIGARELLA, J. J. Estrutura e Origem das Paisagens Tropicais e Subtropicais. Florianópolis: UFSC, 2003. <br>
                             DE PLOEY, J.; GABRIELS, D. Measuring soil loss and experimental studies. In: KIRKBY, M. J.; MORGAN, R. P. C. Soil Erosion, 1980. p. 63-108. <br>
@@ -333,7 +336,7 @@
                             LAL, R. Principles of Soil Conservation and Management. New York: Springer Verlag, 2010.
                             MORGAN, R. P. C.; NEARING, M. Handbook of Erosion Modelling. New Jersey: Wiley-Blackwell,2011. <br>
                             PINTO, S. A. F. Sensoriamento Remoto e Integração de Dados Aplicados no estudo da erosão dos solos: contribuição metodológica. 1991. Tese (Doutorado em Geografia) – Depto. Geografia, FFLCH; São Paulo. <br>
-                            PRUSKI, F. F. Conservação de solo e água: práticas mecânicas para o controle da erosão hídrica. 2. ed. Viçosa: UFV, 2009. 
+                            PRUSKI, F. F. Conservação de solo e água: práticas mecânicas para o controle da erosão hídrica. 2. ed. Viçosa: UFV, 2009. </p>
                             </p>
                             </div>
                         </div>
@@ -349,11 +352,11 @@
                         </div>
                         <div id="collapse11" class="collapse " aria-labelledby="headingOne" data-parent="#DisciplinasObrigatórias">
                             <div class="card-body">
-                            <p>Créditos: 2<br>Docentes: Osania Emerenciano Ferreira, Rodrigo Ney Millan e Gustavo Henrique Gravatim Costa</P>
-                            <p> Ementa: Estudo de microrganismos de interesse agrícola e ambiental. A disciplina estuda as classes mais representativas e importantes de bactérias, leveduras, 
+                            <p><b>Créditos</b>: 2<br><b>Docentes</b>: Osania Emerenciano Ferreira, Rodrigo Ney Millan e Gustavo Henrique Gravatim Costa</P>
+                            <p><b>Ementa</b>: Estudo de microrganismos de interesse agrícola e ambiental. A disciplina estuda as classes mais representativas e importantes de bactérias, leveduras, 
                             fungos filamentosos, e algas, visando sua utilização como agentes microbianos em processos agroindustriais, aproveitamento/tratamento de substratos e resíduos industriais 
                             e monitoramento ambiental. Microrganismos como indicadores ambientais. Biodegradação e biorremediação. Importância ambiental da biocatálise.<br>
-                            Bibliografia:<br>
+                            <p><b>Bibliografia</b>:
                             AHMAD, I.; PICHTEL, J.; HAYAT, S. Plant-bacteria interactions: strategies and techniques to promote plant growth. Weinheim: Wiley-VCH., 2008.<br>
                             ALEF, K.; NANNIPIERI, P. Methods in applied soil microbiology and biochemistry. London: Academic Press, 1995.<br>
                             BAGYRAJ D. J. Microbial biotechnology for sustainable agricultura, horticulture and forestry. New India Publishing Agency, 2011.<br>
@@ -361,7 +364,7 @@
                             MADIGAN, M. T.; MARTINKO, J. M.; PARKER, J. Microbiologia de Brock. 12. ed. Porto Alegre: Artmed, 2010.<br>
                             MARCO, D. Metagenomics of the microbial nitrogen cycle. Norfolk: Caister Academic Press, 2014.<br>
                             MOREIRA, F. M. S. Microbiologia e bioquímica do solo. 2. ed. Lavras: UFLA, 2006.<br>
-                            SIQUEIRA, J. O; SOUZA, F.A.; CARDOSO, E. J. B. N; TSAI, S. M. Micorrizas: 30 anos de pesquisas no Brasil. Lavras: UFLA, 2010
+                            SIQUEIRA, J. O; SOUZA, F.A.; CARDOSO, E. J. B. N; TSAI, S. M. Micorrizas: 30 anos de pesquisas no Brasil. Lavras: UFLA, 2010</p>
                             </p>
                             </div>
                         </div>
@@ -377,12 +380,12 @@
                         </div>
                         <div id="collapse12" class="collapse " aria-labelledby="headingOne" data-parent="#DisciplinasObrigatórias">
                             <div class="card-body">
-                            <p>Créditos: 2<br>Docente: Rodrigo Ney Millan</p>
-                            <p>Ementa: Ciclo hidrológico. Caracterização dos sistemas aquáticos continentais. Propriedades físicas e químicas da água e suas consequências para o funcionamento do 
+                            <p><b>Créditos</b>: 2<br><b>Docente</b>: Rodrigo Ney Millan</p>
+                            <p><b>Ementa</b>: Ciclo hidrológico. Caracterização dos sistemas aquáticos continentais. Propriedades físicas e químicas da água e suas consequências para o funcionamento do 
                             sistema e para a biota. Apresentação das principais comunidades. Estrutura trófica, metabolismo, fluxo de energia, ciclagem de nutrientes. Água como recurso. Principais 
                             pressões antrópicas sobre os ambientes aquáticos. Aspectos a serem considerados para conservação e manejo. Recursos hídricos e a biodiversidade aquática na legislação 
                             brasileira.<br>
-                            Bibliografia: <br>
+                            <p><b>Bibliografia</b>: 
                             DODDS, W. K. Freshwater ecology: concepts and environmental applications (Aquatic Ecology). London: Academic Press, 2002.<br>
                             LAMPERT, W.; SOMMER. U. Limnoecology: the ecology of lakes and streams. 2. ed. Oxford: Oxford University Press, 2007. <br>
                             MAGALHÃES JÚNIOR, A. P. Indicadores ambientais e recursos hídricos. 2. ed. Rio de Janeiro: Bertrand Brasil, 2010. <br>
@@ -396,7 +399,7 @@
                             SCHEFFER, M. Ecology of shallow lakes. The Netherlands: Kluver Academic Publisher, 2004.
                             STRASKRABA, M.; TUNDISI, J. G. Gerenciamento da Qualidade da Água de represas. (Diretrizes para o gerenciamento de lagos – vol. 9). São Carlos: ILEC, IIE, 2000. <br>
                             TUNDISI, J. G.; MATSUMURA-TUNDISI, M. Limnologia. São Paulo: Oficina de Textos, 2008. <br>
-                            WETZEL, R. G. Limnology: lake and river ecosystems. 3. Ed. California: Academic Press, 2001.
+                            WETZEL, R. G. Limnology: lake and river ecosystems. 3. Ed. California: Academic Press, 2001.</p>
                             </p>
                             </div>
                         </div>
@@ -412,10 +415,10 @@
                         </div>
                         <div id="collapse13" class="collapse " aria-labelledby="headingOne" data-parent="#DisciplinasObrigatórias">
                             <div class="card-body">
-                            <p>Créditos: 2<br>Docente: Stefania Lima Oliveira Metzker</p>
-                            <p>Ementa: O que é resíduo? Classificação dos resíduos. Principais resíduos agrícolas e industriais. Caracterização física e química dos resíduos. Técnicas alternativas de
+                            <p><b>Créditos</b>: 2<br><b>Docente</b>: Stefania Lima Oliveira Metzker</p>
+                            <p><b>Ementa</b>: O que é resíduo? Classificação dos resíduos. Principais resíduos agrícolas e industriais. Caracterização física e química dos resíduos. Técnicas alternativas de
                             utilização dos resíduos no contexto do desenvolvimento sustentável. Aproveitamento dos resíduos em diferentes tipos de produtos. Estudos de caso. Normas técnicas.<br>
-                            Bibliografia: <br>
+                            <p><b>Bibliografia</b>: 
                             ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. NBR 10004: Resíduos sólidos: classificação. Rio de Janeiro, 2004. <br>
                             BARROS, R. M. Tratado sobre resíduos sólidos: Gestão, usos e sustentabilidade. Rio de Janeiro: Interciência, 2012. <br>
                             BRASIL, A. M.; SANTOS, F. Equilíbrio ambiental e resíduos na sociedade moderna. São Paulo: FAARTE, 2004. <br>
@@ -424,7 +427,7 @@
                             OLIVEIRA, S. L. Painéis aglomerados de bagaço de cana de açúcar: Caracterização visando ao uso na indústria moveleira. 2013. 144 f. Dissertação (Mestrado em Ciência e Tecnologia da Madeira) – Universidade Federal de Lavras, Lavras, 2013. <br>
                             SPADOTTO, C.; WAGNER, R. Gestão de resíduos na agricultura e agroindústria. 1. ed. Botucatu: Fepaf, 2006. <br>
                             TEIXEIRA, M. G. Aplicação de conceitos da ecologia industrial para a produção de materiais ecológicos: o exemplo do resíduo de madeira. 2005. 159 f. Dissertação (Mestrado em Gerenciamento e Tecnologia Ambiental no Processo Produtivo) – Escola Politécnica, Universidade Federal da Bahia, Salvador, 2005. <br>
-                            TORRES, G. A.; TARIFA, L. R. M. Aproveitamento de Resíduos Agrícolas. Dossiê Técnico, Universidade de São Paulo – USP, 2012. 
+                            TORRES, G. A.; TARIFA, L. R. M. Aproveitamento de Resíduos Agrícolas. Dossiê Técnico, Universidade de São Paulo – USP, 2012. </p>
                             </p>
                             </div>
                         </div>
@@ -440,17 +443,17 @@
                         </div>
                         <div id="collapse14" class="collapse " aria-labelledby="headingOne" data-parent="#DisciplinasObrigatórias">
                             <div class="card-body">
-                            <p>Créditos: 2<br>Docente: Taís Arthur Corrêa</p>
-                            <p>Ementa: Introdução à química de produtos naturais; Métodos cromatográficos de análise química; Processos de isolamento e identificação de parcial de produtos naturais:
+                            <p><b>Créditos</b>: 2<br><b>Docente</b>: Taís Arthur Corrêa</p>
+                            <p><b>Ementa</b>: Introdução à química de produtos naturais; Métodos cromatográficos de análise química; Processos de isolamento e identificação de parcial de produtos naturais:
                             UV-VIS, Ressonância Magnética Nuclear, Infravermelho e Espectrometria de Massas.<br>
-                            Bibliografia: <br>
+                            <p><b>Bibliografia</b>: 
                             BRUICE, P. Y. Química Orgânica. 4. ed. São Paulo: Pearson Prentice Hall, 2006. <br>
                             COLLINS, C. H.; BRAGA, G. L.; BONATO, P. S. Introdução a métodos cromatográficos. 5. ed. Campinas: Editora da Unicamp, 1993. <br>
                             PAVIA, D. L; LAMPMAN, G. M.; KRIZ, G. S.; ENGEL, R. G. Química orgânica experimental: técnicas de escala pequena. 2. ed. Porto Alegre: Bookman, 2009. <br>
                             PAVIA, D. L.; LAMPMAN, G. N.; KRIZ, G. S.; VYVYAN, K. J. Introdução à Espectroscopia. 1. ed. Boston: Cengage Learning, 2010. <br>
                             SIMÕES, C. M. O. et al. (Ed.), Farmacognosia: da planta ao medicamento. Porto Alegre:
                             UFRGS/UFSC, 2007. <br>
-                            SOLOMONS, T. W. G.; FRYHLE, C. B. Química Orgânica. Rio de Janeiro: LTC – Livros Técnicos e Científicos Editora S.A., 2002, Vol. 1 e Vol. 2
+                            SOLOMONS, T. W. G.; FRYHLE, C. B. Química Orgânica. Rio de Janeiro: LTC – Livros Técnicos e Científicos Editora S.A., 2002, Vol. 1 e Vol. 2</p>
                             </p>
                             </div>
                         </div>
@@ -466,14 +469,15 @@
                         </div>
                         <div id="collapse15" class="collapse " aria-labelledby="headingOne" data-parent="#DisciplinasObrigatórias">
                             <div class="card-body">
-                            <p>Créditos: 2<br>Docente: Thiago Gechel Kloss</p>
-                            <p>Ementa: Conceitos de simbiose. Tipos de interações ecológicas. Ecologia evolutiva das interações. Variação das interações ao longo do espaço-tempo. Fatores ambientais 
+                            <p><b>Créditos</b>: 2<br><b>Docente</b>: Thiago Gechel Kloss</p>
+                            <p><b>Ementa</b>: Conceitos de simbiose. Tipos de interações ecológicas. Ecologia evolutiva das interações. Variação das interações ao longo do espaço-tempo. Fatores ambientais 
                             influenciando interações ecológicas.<br>
+                            <p><b>Bibliografia</b>: 
                             BEGON, M.; TOWNSEND, C. R.; HARPER, J. L. Ecology: from individuals to ecosystems. 4. ed. New Jersey: Blackwell Publishing, 2006. <br>
                             DEL-CLARO, K.; TOREZAN-SILINGARDI, H. M. Ecologia das interações plantas-animais: uma abordagem ecológico-evolutiva. Rio de Janeiro: Technical Books Editora, 2012. <br>
                             HERRERA, C. M.; PELLMYR, O. Plant animal interactions: an evolutionary approach. New Jersey: John Wiley & Sons, 2009. <br>
                             RICKLEFS, R. E.; RELYEA, R. A economia da natureza. 7. ed. Rio de Janeiro: Guanabara Koogan, 2016. <br>
-                            THOMPSON, J. N. The geographic mosaic of coevolution. Chicago: University of Chicago Press, 2005. 
+                            THOMPSON, J. N. The geographic mosaic of coevolution. Chicago: University of Chicago Press, 2005. </p>
                             </p>
                             </div>
                         </div>
@@ -489,18 +493,18 @@
                         </div>
                         <div id="collapse16" class="collapse " aria-labelledby="headingOne" data-parent="#DisciplinasObrigatórias">
                             <div class="card-body">
-                            <p>Créditos: 2<br>Docente: Thiago Torres Costa Pereira</p>
-                            <p>Ementa: Processos pedogenéticos e planejamento do uso e manejo dos recursos de solo. Degradação física, química e biológica do solo. Conservação do solo. 
+                            <p><b>Créditos</b>: 2<br><b>Docente</b>: Thiago Torres Costa Pereira</p>
+                            <p><b>Ementa</b>: Processos pedogenéticos e planejamento do uso e manejo dos recursos de solo. Degradação física, química e biológica do solo. Conservação do solo. 
                             Erosão e sedimentação. Recuperação de áreas degradadas. Qualidade do solo e da água. Solo e o desenvolvimento sócio-econômico. Sustentabilidade do sistema de produção 
                             em relação ao subsistema solo.<br>
-                            Bibliografia: <br>
+                            <p><b>Bibliografia</b>: 
                             BERTONI, J.; LOMBARDI NETO, F. Conservação do Solo. 8. ed. São Paulo: Ícone, 2013. <br>
                             BERTONI, J.; LOMBARDI NETO, F.; BENATI JÚNIOR, R. Equação de perdas de solo. Campinas: Instituto Agronômico de Campinas, 1975. <br>
                             BREEMEN, N. V. BUURMAN, P. Soil Formation. 2. ed. Dordrecht: Kluwer Academic Publishers, 2002. <br>
                             HUDSON, N. Soil conservation. 3. ed. Ames: Iowa State University Press, 1995. <br>
                             MORGAN, R. P. C. Soil erosion and conservation. 3. ed. New Jersey: Blackwell Publishing, 2005. <br>
                             PRUSKI, F.F. (Ed.). Conservação de solo e água: práticas mecânicas para o controle da erosão hídrica. 2. ed. Viçosa: UFV, 2009. <br>
-                            SILVA, D. D.; PRUSKI, F. F.; CECÍLIO, R. A.; BRANDÃO, V. S. Infiltração da água no solo. 3. ed. Viçosa: UFV, 2006.
+                            SILVA, D. D.; PRUSKI, F. F.; CECÍLIO, R. A.; BRANDÃO, V. S. Infiltração da água no solo. 3. ed. Viçosa: UFV, 2006.</p>
                             </p>
                             </div>
                         </div>
@@ -516,12 +520,12 @@
                         </div>
                         <div id="collapse17" class="collapse " aria-labelledby="headingOne" data-parent="#DisciplinasObrigatórias">
                             <div class="card-body">
-                            <p>Créditos: 2<br>Docente: Vanesca Korasaki </p>
-                            <p>Ementa: Definição de comunidades. Condições, recursos e gradientes locais de distribuição e riqueza de espécies. Gradientes regionais e globais de distribuição e 
+                            <p><b>Créditos</b>: 2<br><b>Docente</b>: Vanesca Korasaki </p>
+                            <p><b>Ementa</b>: Definição de comunidades. Condições, recursos e gradientes locais de distribuição e riqueza de espécies. Gradientes regionais e globais de distribuição e 
                             riqueza de espécies. Ecologia de interação I (competição e nicho). Ecologia de interação II (parasitismo, parasitoidismo e predação). Ecologia de Interação III (herbívora 
                             e mutualismo). Ecologia trófica: rede de interações. Definição e funcionamento de ecossistemas. Ciclo de nutrientes. Dinâmica temporal – sucessão. Restauração de ecossistemas. 
                             Dinâmica espacial – metacomunidades. Macroecologia.<br>
-                            Bibliografia:<br>
+                            <p><b>Bibliografia</b>: 
                             BEEBY, A. Applying Ecology. The Netherlands: Springer. 1994. <br>
                             BEGON, M.; TOWNSEND, C. R.; HARPER, J. L. Ecology: from individuals to ecosystems. 4. ed. New Jersey: Blackwell Publishing. 2006. <br>
                             BROWN, J. H. Macroecology. USA: University of Chicago Press, 1995. <br>
@@ -534,7 +538,7 @@
                             PRIMACK, R. B.; RODRIGUES, E. Biologia da Conservação. Londrina: E. Rodrigues, 2001. <br>
                             RICKLEFS, R. E.; RELYEA, R. A economia da natureza. 7. ed. Rio de Janeiro: Guanabara Koogan, 2016. <br>
                             TEMPERTON, V. M.; HOBBS, R. J.; NUTTLE, T.; HALLE, S. (Eds.). Assembly rules and restoration ecology: bridging the gap between theory and practice. Washington: Island Press, 2004. <br>
-                            TOWSEND, C. R.; BEGON, M.; HARPER, J. L. Essentials in Ecology. 3. ed. Oxford: Blackwell Science, 2003.
+                            TOWSEND, C. R.; BEGON, M.; HARPER, J. L. Essentials in Ecology. 3. ed. Oxford: Blackwell Science, 2003.</p>
                             </p>
                             </div>
                         </div>
@@ -550,13 +554,13 @@
                         </div>
                         <div id="collapse18" class="collapse " aria-labelledby="headingOne" data-parent="#DisciplinasObrigatórias">
                             <div class="card-body">
-                            <p>Créditos: 2<br>Docente: Viviane Modesto Arruda</p>
-                            <p>Ementa: Epistemologia da Educação Ambiental e os antecedentes históricos. Princípios e estratégias de educação ambiental. As relações entre a sociedade e a natureza. 
+                            <p><b>Créditos</b>: 2<br><b>Docente</b>: Viviane Modesto Arruda</p>
+                            <p><b>Ementa</b>: Epistemologia da Educação Ambiental e os antecedentes históricos. Princípios e estratégias de educação ambiental. As relações entre a sociedade e a natureza. 
                             Bases da Educação Ambiental como área do conhecimento teórico, científico metodológico. Ética ambiental. Diferentes tipos de abordagens e metodologias em Educação Ambiental. 
                             Educação Ambiental formal. Educação Ambiental como ação transformadora na sociedade. Educação ambiental no processo de gestão ambiental. Contribuições da Educação Ambiental 
                             para a segurança da saúde ambiental e humana. Operacionalização das atividades em Educação Ambiental. Organização e orientação para a elaboração e apresentação de Projetos em 
                             Educação Ambiental. Projetos de Educação Ambiental e a relação com o ensino e a pesquisa. Avaliação de Projetos pedagógicos em educação ambiental.<br>
-                            Bibliografia:<br>
+                            <p><b>Bibliografia</b>: 
                             BARBIERI, J. C. Desenvolvimento e Meio Ambiente: as estratégias de mudança da Agenda 21. 11. ed. Petrópolis, RJ: Vozes, 2009. <br>
                             BERNA, V. Como fazer educação ambiental. São Paulo: Paulus, 2001. <br>
                             CARVALHO, I. C. M. Educação Ambiental: a Formação do Sujeito Ecológico. São Paulo: Cortez, 2004. <br>
@@ -569,7 +573,7 @@
                             PHILIPPI JR, A.; PELICIONI, M. C. F. Educação Ambiental. 2. ed. São Paulo: Universidade de São Paulo. Faculdade de Saúde Pública. Núcleo de Informações em Saúde Ambiental: Signus Editora, 2002. <br>
                             PHILIPPI JR, A.; PELICIONI, M. C. F. Educação Ambiental: desenvolvimento de cursos e projetos.
                             São Paulo: Universidade de São Paulo. Faculdade de Saúde Pública. NISAM: Signus Editora, 2000. <br>
-                            REIGOTA, M. Meio Ambiente e representação social. São Paulo: Questões da Nossa Época, n° 41: Cortez, 1995.
+                            REIGOTA, M. Meio Ambiente e representação social. São Paulo: Questões da Nossa Época, n° 41: Cortez, 1995.</p>
                             </p>
                             </div>
                         </div>
@@ -585,17 +589,17 @@
                         </div>
                         <div id="collapse19" class="collapse " aria-labelledby="headingOne" data-parent="#DisciplinasObrigatórias">
                             <div class="card-body">
-                            <p> Créditos: 2<br>Docente: Osania Emerenciano Ferreira e Taís Arthur Corrêa</p>
-                            <p>Ementa: A disciplina objetiva apresentar aos alunos o cenário da universidade como instituição especializada no ensino, desde sua organização estrutural até os 
+                            <p><b>Créditos</b>: 2<br><b>Docente</b>: Osania Emerenciano Ferreira e Taís Arthur Corrêa</p>
+                            <p><b>Ementa</b>: A disciplina objetiva apresentar aos alunos o cenário da universidade como instituição especializada no ensino, desde sua organização estrutural até os 
                             fundamentos de do processo de ensino e aprendizagem. Serão apresentadas metodologias de ensino utilizadas, ferramentas de auxílio no ensino, organização do trabalho 
                             pedagógico, e trabalho com situações problema.<br>
-                            Bibliografia:<br>
+                            <p><b>Bibliografia</b>: 
                             BACICH, L.; MORAN, J. Metodologias ativas para uma educação inovadora: uma abordagem teórico-prática. Porto Alegre: Penso Editora Ltda, 2018 260p. <br>
                             CANDAU, V. M. A didática em questão. 33. Ed. Petropolis: Vozes, 2012, disponível em
                             <a href="https://pedagogiafadba.files.wordpress.com/2013/08/a-didc3a1tica-em-questc3a3o.pdf" _blank style="color:black !important">https://pedagogiafadba.files.wordpress.com/2013/08/a-didc3a1tica-em-questc3a3o.pdf</a><br>
                             DALBEN, A. I. L. F. Convergências e Tensões no Campo da Formação e do Trabalho Docente. Belo Horizonte: Autêntica, 2010. <br>
                             MOURA, M. A. Educação científica e cidadania: abordagens teóricas e metodológicas para a formação de pesquisadores juvenis. Belo Horizonte: PROEX/UFMG, 2012. 277 p. <br>
-                            SAVIANI, D. Educação brasileira: estrutura e sistema. 11. ed. São Paulo: Saraiva, 2012. 153 p. <br>
+                            SAVIANI, D. Educação brasileira: estrutura e sistema. 11. ed. São Paulo: Saraiva, 2012. 153 p. </p>
                             </p>
                             </div>
                         </div>
@@ -611,10 +615,10 @@
                         </div>
                         <div id="collapse20" class="collapse " aria-labelledby="headingOne" data-parent="#DisciplinasObrigatórias">
                             <div class="card-body">
-                            <p>Créditos: 2<br>Docente: Não definido</p>
-                            <p>Ementa: Disciplina oferecida de maneira não regular, ministrada por professores visitantes ou da própria instituição, concentrada ou não. Conteúdo variável abrangendo 
+                            <p><b>Créditos</b>: 2<br><b>Docente</b>: Não definido</p>
+                            <p><b>Ementa</b>: Disciplina oferecida de maneira não regular, ministrada por professores visitantes ou da própria instituição, concentrada ou não. Conteúdo variável abrangendo 
                             temas importantes para a formação global do estudante, não abordados nas disciplinas regulares da UEMG.<br>
-                            Bibliografia: Variável
+                            <p><b>Bibliografia</b>: Variável</p>
                             </p>
                             </div>
                         </div>

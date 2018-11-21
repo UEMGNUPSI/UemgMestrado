@@ -61,7 +61,7 @@
                         </a>
 
                         <div class="dropdown-menu" aria-labelledby="dropdownMenuLink" style="    background: #587e95">
-                            <a class="dropdown-item" href="membrosconselho.php">Membros do cosnelho</a>
+                            <a class="dropdown-item" href="membrosconselho.php">Membros do conselho</a>
                             <a class="dropdown-item" href="#">Calendário de reuniões</a>
                         </div>
                     </div>
