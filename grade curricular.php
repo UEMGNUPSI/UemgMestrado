@@ -19,13 +19,14 @@
 
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js" integrity="sha384-smHYKdLADwkXOn1EmN1qk/HfnUcbVRZyYmZ4qpPea6sjB/pTJ0euyQp0Mk8ck+5T" crossorigin="anonymous"></script>
+    <!-- FONT -->
     <link href="https://fonts.googleapis.com/css?family=Arimo" rel="stylesheet">
 </head>
 <body style="font-family: 'Arimo', sans-serif;">
     <?php
         require_once("Head.php");
     ?>  
-        <button id="top" style= "position:fixed;top: 94%; left: 96%;" onclick="voltarTopo()">TOP</button>
+        <!-- <button id="top" style= "position:fixed;top: 94%; left: 96%;" onclick="voltarTopo()">TOP</button> -->
         <div class="container" style="padding-left:5%;padding-right:5%;text-align: justify">
            
                 <h2 style="padding-left:3%">GRADE CURRICULAR </h2>
