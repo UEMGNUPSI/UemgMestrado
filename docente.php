@@ -153,7 +153,7 @@
              
 
                 <div class="card-body">
-                <a href="http://lattes.cnpq.br/1421305037766063" 	target='_blank'> <img class="quadro mb-4" /></a>
+                <a href="http://lattes.cnpq.br/1421305037766063" 	target='_blank'> <img class="quadro mb-4" src="IMG/Thiago Torres.jpeg"/></a>
                     <h4 class="card-title" style="min-height: 55px;">Jhansley Ferreira da Mata</h4>
                     <h6 class="card-subtitle mb-3 text-muted">Linhas de Pesquisa: Diagnóstico e Ecologia Ambiental </h6>
                 
