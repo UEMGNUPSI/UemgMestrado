@@ -20,7 +20,8 @@
         require_once("Head.php");
     ?>
 
-    <div class=" container offset-1">
+    <div class="container">
+    <div class="col-10 offset-1">
         <div class="row">
             <label>
                 Contato
@@ -37,7 +38,7 @@
             </label>
         </div>
     </div>
-
+    </div>
     
     <?php
         require_once("footer.php");

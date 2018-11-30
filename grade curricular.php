@@ -21,6 +21,7 @@
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js" integrity="sha384-smHYKdLADwkXOn1EmN1qk/HfnUcbVRZyYmZ4qpPea6sjB/pTJ0euyQp0Mk8ck+5T" crossorigin="anonymous"></script>
     <!-- FONT -->
     <link href="https://fonts.googleapis.com/css?family=Arimo" rel="stylesheet">
+    
 </head>
 <body style="font-family: 'Arimo', sans-serif;">
     <?php
@@ -81,8 +82,9 @@
                             apresentação para públicos. Utilização de recursos audiovisuais. Apresentação dos projetos de pesquisa dos alunos. Análise das etapas alcançadas pelos alunos em suas
                             pesquisas de acordo com o cronograma de atividades, permitindo a adequação e pleno desenvolvimento dos projetos.<br>
                             <p><b>Bibliografia</b>: 
-                            Devido à natureza da atividade, a maior parte das referências bibliográficas são as mesmas utilizadas pelos alunos em seus projetos de pesquisa. . ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. NBR 14724: informação e documentação: trabalhos acadêmicos: apresentação. Rio de Janeiro, 2011. <br>
-                            GIL, A. C. Como elaborar projetos de pesquisa. 4 ed. São Paulo: Atlas, 2002. 175 p. 
+                            Devido à natureza da atividade, a maior parte das referências bibliográficas são as mesmas utilizadas pelos alunos em seus projetos de pesquisa.<br>
+                            ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. NBR 14724: informação e documentação: trabalhos acadêmicos: apresentação. Rio de Janeiro, 2011. <br>
+                            GIL, A. C. Como elaborar projetos de pesquisa. 4 ed. São Paulo: Atlas, 2002. 175 p. <br>
                             MATIAS-PEREIRA, J. Manual de metodologia da pesquisa científica. 3. ed. São Paulo: Atlas, 2012. 196 p. <br>
                             MARCONI, M. A.; LAKATOS, E. M. Fundamentos de metodologia científica. 7. ed. São Paulo: Atlas, 2010. 297 p.<br> 
                             VOLPATO, G. L. Ciência: da filosofia à publicação. 6. ed. São Paulo: Cultura Acadêmica, 2013.</p>
