@@ -25,6 +25,8 @@
     ?>
 
 <div class="container">
+      <h2 style="padding-left:10%"> DOCENTES </h2>
+                <br>
 <!--Primeiro Card-->
 <div class="row mb-5">
             
@@ -35,7 +37,7 @@
               
                 <div class="card-body">
                   
-                <a href="http://lattes.cnpq.br/9843838056118017" 	target='_blank'> <img class="quadro mb-4" /></a>
+                <a href="http://lattes.cnpq.br/9843838056118017" 	target='_blank'> <img class="quadro mb-4"src="IMG_Docentes/AlanMachado.png" /></a>
                   <h4 class="card-title" style="min-height: 55px;">Alan Rodrigues Teixeira Machado</h4>
                   <h6 class="card-subtitle mb-3 text-muted">Linhas de Pesquisa: Tecnologia, Ambiente e Sociedade </h6>
                   
@@ -61,7 +63,7 @@
                 
                   <div class="card-body">
                  
-                    <a href="http://lattes.cnpq.br/6602712110213846" 	target='_blank'> <img class="quadro mb-4" /></a>
+                    <a href="http://lattes.cnpq.br/6602712110213846" 	target='_blank'> <img class="quadro mb-4" src="IMG_Docentes/AlexandreNascimento.png" /></a>
                
                    <h4 class="card-title" style="min-height: 55px;">Alexandre Túlio Amaral Nascimento</h4>
                    <h6 class="card-subtitle mb-3 text-muted">Linhas de Pesquisa: Tecnologia, Ambiente e Sociedade </h6>
@@ -90,7 +92,7 @@
              
 
                 <div class="card-body">
-                <a href="http://lattes.cnpq.br/1395564531728373" 	target='_blank'> <img class="quadro mb-4" /></a>
+                <a href="http://lattes.cnpq.br/1395564531728373" 	target='_blank'> <img class="quadro mb-4" src="IMG_Docentes/AndréSerotini.png"/></a>
                     <h4 class="card-title" style="min-height: 55px;">André Serotini</h4>
                     <h6 class="card-subtitle mb-3 text-muted">Linhas de Pesquisa: Tecnologia, Ambiente e Sociedade </h6>
                 
@@ -124,7 +126,7 @@
              
 
                 <div class="card-body">
-                <a href="http://lattes.cnpq.br/6188547713731917" 	target='_blank'> <img class="quadro mb-4" /></a>
+                <a href="http://lattes.cnpq.br/6188547713731917" 	target='_blank'> <img class="quadro mb-4" src="IMG_Docentes/GustavoGravatim.png"/></a>
                     <h4 class="card-title" style="min-height: 55px;">Gustavo Henrique Gravatim Costa</h4>
                     <h6 class="card-subtitle mb-3 text-muted">Linhas de Pesquisa: Tecnologia, Ambiente e Sociedade </h6>
                 
@@ -156,7 +158,7 @@
              
 
                 <div class="card-body">
-                <a href="http://lattes.cnpq.br/1421305037766063" 	target='_blank'> <img class="quadro mb-4" src="IMG/Thiago Torres.jpeg"/></a>
+                <a href="http://lattes.cnpq.br/1421305037766063" 	target='_blank'> <img class="quadro mb-4" src="IMG_Docentes/JhansleyMata.png"/></a>
                     <h4 class="card-title" style="min-height: 55px;">Jhansley Ferreira da Mata</h4>
                     <h6 class="card-subtitle mb-3 text-muted">Linhas de Pesquisa: Diagnóstico e Ecologia Ambiental </h6>
                 
@@ -186,7 +188,7 @@
              
 
                 <div class="card-body">
-                <a href="http://lattes.cnpq.br/4283839989423703" 	target='_blank'> <img class="quadro mb-4" /></a>
+                <a href="http://lattes.cnpq.br/4283839989423703" 	target='_blank'> <img class="quadro mb-4" src="IMG_Docentes/LeandroPereira.png"/></a>
                     <h4 class="card-title" style="min-height: 55px;">Leandro de Souza Pinheiro</h4>
                     <h6 class="card-subtitle mb-3 text-muted">Linhas de Pesquisa: Diagnóstico e Ecologia Ambiental </h6>
                 
@@ -220,7 +222,7 @@
              
 
                 <div class="card-body">
-                <a href="http://lattes.cnpq.br/2926329960701097" 	target='_blank'> <img class="quadro mb-4" /></a>
+                <a href="http://lattes.cnpq.br/2926329960701097" 	target='_blank'> <img class="quadro mb-4"src="IMG_Docentes/MauricioCatilhos.png" /></a>
                     <h4 class="card-title" style="min-height: 55px;">Maurício Bonatto Machado de Castilha</h4>
                     <h6 class="card-subtitle mb-3 text-muted">Linhas de Pesquisa: Tecnologia, Ambiente e Sociedade </h6>
                 
@@ -251,7 +253,7 @@
              
 
                 <div class="card-body">
-                <a href="http://lattes.cnpq.br/4633752993827279" 	target='_blank'> <img class="quadro mb-4" /></a>
+                <a href="http://lattes.cnpq.br/4633752993827279" 	target='_blank'> <img class="quadro mb-4" src="IMG_Docentes/OsaniaFerreira.png"/></a>
                     <h4 class="card-title" style="min-height: 55px;">Osania Emerenciano Ferreira</h4>
                     <h6 class="card-subtitle mb-3 text-muted">Linhas de Pesquisa: Diagnóstico e Ecologia Ambiental </h6>
                 
@@ -282,7 +284,7 @@
              
 
                 <div class="card-body">
-                <a href="http://lattes.cnpq.br/4521089561104903" 	target='_blank'> <img class="quadro mb-4" /></a>
+                <a href="http://lattes.cnpq.br/4521089561104903" 	target='_blank'> <img class="quadro mb-4" src="IMG_Docentes/RodrigoMilan.png"/></a>
                     <h4 class="card-title" style="min-height: 55px;">Rodrigo Ney Millan</h4>
                     <h6 class="card-subtitle mb-3 text-muted">Linhas de Pesquisa: Diagnóstico e Ecologia Ambiental </h6>
                 
@@ -316,7 +318,7 @@
              
 
                 <div class="card-body">
-                <a href="http://lattes.cnpq.br/8839658976395370" 	target='_blank'> <img class="quadro mb-4" /></a>
+                <a href="http://lattes.cnpq.br/8839658976395370" 	target='_blank'> <img class="quadro mb-4" src="IMG_Docentes/StefâniaMetzker.png"/></a>
                     <h4 class="card-title" style="min-height: 55px;">Stefânia Lima Oliveira Metzker</h4>
                     <h6 class="card-subtitle mb-3 text-muted">Linhas de Pesquisa: Tecnologia, Ambiente e Sociedade </h6>
                 
@@ -347,7 +349,7 @@
              
 
                 <div class="card-body">
-                <a href="http://lattes.cnpq.br/4211765565266439" 	target='_blank'> <img class="quadro mb-4" /></a>
+                <a href="http://lattes.cnpq.br/4211765565266439" 	target='_blank'> <img class="quadro mb-4" src="IMG_Docentes/TaísCorrea.png"/></a>
                     <h4 class="card-title" style="min-height: 55px;">Taís Arthur Corrêa</h4>
                     <h6 class="card-subtitle mb-3 text-muted">Linhas de Pesquisa: Diagnóstico e Ecologia Ambiental </h6>
                 
@@ -377,40 +379,7 @@
              
 
                 <div class="card-body">
-                <a href="http://lattes.cnpq.br/6213884442511218" 	target='_blank'> <img class="quadro mb-4" /></a>
-                    <h4 class="card-title" style="min-height: 55px;">Thiago Gechel Kloss</h4>
-                    <h6 class="card-subtitle mb-3 text-muted">Linhas de Pesquisa: Diagnóstico e Ecologia Ambiental </h6>
-                
-                </div>
-
-                <ul class="list-group list-group-flush">
-
-                      <li class="list-group-item" style="min-height: 75px;display: flex;align-items: center;">Graduação: Ciências Biológicas</li>
-                      <li class="list-group-item" style="min-height: 75px;display: flex;align-items: center;">Doutorado: Entomologia</li>
-                      <li class="list-group-item">Ano da Titulação: 2015</li>
-
-                </ul>
-                
-                <div class="card-footer text-muted">
-
-                     thiago.kloss@uemg.br
-
-                </div>
-
-              </div>
-
-            </div>          
-        
-        </div>
-<!--Décimo-Terceiro Card -->
-<div class="row mb-5">
-          <div class="col-md-4 mt-3">
-              
-              <div class="card">             
-             
-
-                <div class="card-body">
-                <a href="http://lattes.cnpq.br/8278516582581479" 	target='_blank'> <img class="quadro mb-4" /></a>
+                <a href="http://lattes.cnpq.br/8278516582581479" 	target='_blank'> <img class="quadro mb-4" src="IMG_Docentes/ThiagoTorres.png"/></a>
                     <h4 class="card-title" style="min-height: 55px;">Thiago Torres Costa Pereira</h4>
                     <h6 class="card-subtitle mb-3 text-muted">Linhas de Pesquisa: Tecnologia, Ambiente e Sociedade </h6>
                 
@@ -432,7 +401,41 @@
 
               </div>
 
-            </div>
+            </div>      
+        
+        </div>
+<!--Décimo-Terceiro Card -->
+<div class="row mb-5">
+         
+            <div class="col-md-4 mt-3">
+              
+              <div class="card">             
+             
+
+                <div class="card-body">
+                <a href="http://lattes.cnpq.br/6213884442511218" 	target='_blank'> <img class="quadro mb-4" src="IMG_Docentes/ThiagoKloss.png" /></a>
+                    <h4 class="card-title" style="min-height: 55px;">Thiago Gechel Kloss</h4>
+                    <h6 class="card-subtitle mb-3 text-muted">Linhas de Pesquisa: Diagnóstico e Ecologia Ambiental </h6>
+                
+                </div>
+
+                <ul class="list-group list-group-flush">
+
+                      <li class="list-group-item" style="min-height: 75px;display: flex;align-items: center;">Graduação: Ciências Biológicas</li>
+                      <li class="list-group-item" style="min-height: 75px;display: flex;align-items: center;">Doutorado: Entomologia</li>
+                      <li class="list-group-item">Ano da Titulação: 2015</li>
+
+                </ul>
+                
+                <div class="card-footer text-muted">
+
+                     thiago.kloss@uemg.br
+
+                </div>
+
+              </div>
+
+            </div> 
 <!--Décimo-Quarto Card-->
 <div class="col-md-4 mt-3">
               
@@ -440,7 +443,7 @@
              
 
                 <div class="card-body">
-                <a href="http://lattes.cnpq.br/0596604666342386" 	target='_blank'> <img class="quadro mb-4" /></a>
+                <a href="http://lattes.cnpq.br/0596604666342386" 	target='_blank'> <img class="quadro mb-4" src="IMG_Docentes/VanescaKorasaki.png"/></a>
                     <h4 class="card-title" style="min-height: 55px;">Vanesca Korasaki</h4>
                     <h6 class="card-subtitle mb-3 text-muted">Linhas de Pesquisa: Diagnóstico e Ecologia Ambiental </h6>
                 
@@ -470,7 +473,7 @@
              
 
                 <div class="card-body">
-                <a href="http://lattes.cnpq.br/8485150224469596" 	target='_blank'> <img class="quadro mb-4" /></a>
+                <a href="http://lattes.cnpq.br/8485150224469596" 	target='_blank'> <img class="quadro mb-4" src="IMG_Docentes/VivianeArruda.png"/></a>
                     <h4 class="card-title" style="min-height: 55px;">Viviane Modesto Arruda</h4>
                     <h6 class="card-subtitle mb-3 text-muted">Linhas de Pesquisa: Tecnologia, Ambiente e Sociedade </h6>
                 

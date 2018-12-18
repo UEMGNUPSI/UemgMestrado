@@ -13,7 +13,7 @@ div ul li a{
     margin-top: -2px;
 }
  div ul .nav-item:hover {
-    background-color: #587e95; 
+    background-color: #7bb17e; 
 }
 /*
 div ul li ul li:hover {
@@ -31,7 +31,7 @@ div ul li ul li{
     float: left;
     width: 100%;
     min-width: 190px;
-    background: #587e95;
+    background: #7bb17e;
     margin: 0;
     text-align: left;
     padding: 2px 4px 0 4px;
@@ -43,11 +43,11 @@ div li:hover ul{
     margin-bottom: -2px;
 }
 .menu{
-   background: #46697d !important;  
+   background: #518e55 !important;  
    box-shadow: 1px 2px 8px 0px;
 }
 body{
-    background:#dfe1ed;
+    background:#518e5538;
    
 }
 a{
@@ -55,7 +55,7 @@ a{
     color:whitesmoke !important;
 }
 .dropdown-item:hover{
-    background: #46697d !important;  
+    background: #7bb17e !important;  
 }
 
 @media (max-width: 575.98px){
@@ -65,5 +65,14 @@ a{
     h2{
         font-size: 130%;
         text-align: center;
+    }
+    .idiomas{
+        display: none;
+    }
+    .logo1{
+        width: 40% !important;
+    }
+    .logo2{
+        width: 48% !important;
     }
 }

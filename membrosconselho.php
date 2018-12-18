@@ -24,17 +24,17 @@
            
     ?>
 <div class="container">
-
+  <h2 style="padding-left:10%"> MEMBROS DO CONSELHO </h2>
 <div style="background: white;padding:0px;" >
 
 <div class="media border border-secondary p-3 mt-5 mb-5" >
-  <img src="avatar.png"  class="mr-3 mt-1 rounded-circle" style="width:60px;">
+  <img src="IMG_Docentes/GustavoGravatim.png"  class="mr-3 mt-1 rounded-circle" style="width:60px;">
   <div class="media-body">
     <h4>Dr. Gustavo Henrique Gravatim Costa <small><i></i></small></h4>
     <dd>Coordenador</dd>
 
     <div class="media p-3">    
-      <img src="avatar.png" alt="Jane Doe" class="mr-3 mt-1 rounded-circle" style="width:45px;">     
+      <img src="IMG_Docentes/VanescaKorasaki.png" alt="Jane Doe" class="mr-3 mt-1 rounded-circle" style="width:45px;">     
       <div class="media-body">
 
         <h4>Dra. Vanesca Korasaki </h4>
@@ -52,13 +52,13 @@
 
  <div style="background: white;padding:0px;" >
 <div class="media border border-secondary p-3 mb-5" >
-  <img src="avatar.png"  class="mr-3 mt-1 rounded-circle" style="width:60px;">
+  <img src="IMG_Docentes/OsaniaFerreira.png"  class="mr-3 mt-1 rounded-circle" style="width:60px;">
   <div class="media-body">
     <h4>Dra. Osania Emereciano Ferreira <small><i>Linha de Pesquisa: Diagnóstico e Ecologia Ambiental</i></small></h4>
     <dd>Titular</dd>
 
     <div class="media p-3">
-      <img src="avatar.png" alt="Jane Doe" class="mr-3 mt-1 rounded-circle" style="width:45px;">
+      <img src="IMG_Docentes/ThiagoTorres.png" alt="Jane Doe" class="mr-3 mt-1 rounded-circle" style="width:45px;">
 
       <div class="media-body">
         <h4>Dr. Thiago Torres Costa Pereira  <small><i>Linha de Pesquisa: Diagnóstico e Ecologia Ambiental</i></small></h4>
@@ -76,13 +76,13 @@
 
 <div style="background: white;padding:0px;" >
 <div class="media border border-secondary p-3 mb-5">
-  <img src="avatar.png" class="mr-3 mt-1 rounded-circle" style="width:60px;">
+  <img src="IMG_Docentes/RodrigoMilan.png" class="mr-3 mt-1 rounded-circle" style="width:60px;">
   <div class="media-body">
     <h4>Dr. Rodrigo Ney Millan  <small><i>Linha de Pesquisa: Diagnóstico e Ecologia Ambiental</i></small></h4>
     <dd>Titular</dd>
 
     <div class="media p-3">
-      <img src="avatar.png" alt="Jane Doe" class="mr-3 mt-1 rounded-circle" style="width:45px;">
+      <img src="IMG_Docentes/ThiagoKloss.png" alt="Jane Doe" class="mr-3 mt-1 rounded-circle" style="width:45px;">
 
       <div class="media-body">
         <h4>Dr. Thiago Gechel Kloss  <small><i>Linha de Pesquisa: Diagnóstico e Ecologia Ambiental</i></small></h4>
@@ -99,13 +99,13 @@
 
 <div style="background: white;padding:0px;" >
 <div class="media border border-secondary p-3 mb-5">
-  <img src="avatar.png" class="mr-3 mt-1 rounded-circle" style="width:60px;">
+  <img src="IMG_Docentes/StefâniaMetzker.png" class="mr-3 mt-1 rounded-circle" style="width:60px;">
   <div class="media-body">
     <h4>Dra. Stefania Lima Oliveira Metzker <small><i>Linha de Pesquisa :Tecnologia, Ambiente e Sociedade</i></small></h4>
     <dd>Titular</dd>
 
     <div class="media p-3">
-      <img src="avatar.png" alt="Jane Doe" class="mr-3 mt-1 rounded-circle" style="width:45px;">
+      <img src="IMG_Docentes/AlanMachado.png" alt="Jane Doe" class="mr-3 mt-1 rounded-circle" style="width:45px;">
 
       <div class="media-body">
         <h4>Dr. Alan Rodrigues Teixeira Machado  <small><i>Linha de Pesquisa :Tecnologia, Ambiente e Sociedade</i></small></h4>
@@ -122,13 +122,13 @@
 
 <div style="background: white;padding:0px;"  >
 <div class="media border border-secondary p-3 mb-3">
-  <img src="avatar.png"  class="mr-3 mt-1 rounded-circle" style="width:60px;">
+  <img src="IMG_Docentes/AlexandreNascimento.png"  class="mr-3 mt-1 rounded-circle" style="width:60px;">
   <div class="media-body">
     <h4>Dr. Alexandre Túlio Amaral Nascimento  <small><i>Linha de Pesquisa :Tecnologia, Ambiente e Sociedade</i></small></h4>
     <dd>Titular</dd>
 
     <div class="media p-3">
-      <img src="avatar.png" alt="Jane Doe" class="mr-3 mt-1 rounded-circle" style="width:45px;">
+      <img src="IMG_Docentes/MauricioCatilhos.png" alt="Jane Doe" class="mr-3 mt-1 rounded-circle" style="width:45px;">
 
       <div class="media-body">
         <h4>Dr. Maurício Bonatto Machado de Castilhos   <small><i>Linha de Pesquisa :Tecnologia, Ambiente e Sociedade</i></small></h4>
