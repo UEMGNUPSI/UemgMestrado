@@ -3,6 +3,12 @@
             function aviso() {
                 alert("Em breve");
             }
+            function inglish() {
+                alert("Coming Soon");
+            }
+            function spanish() {
+                alert("En manutención");
+            }
                 
             
         </script>
@@ -37,8 +43,8 @@
         </div>
         <figure class="col-md-2 idiomas" >
             <img src="IMG/brasil.png" style="width: 20%;position: absolute;bottom: 0%;right: 60%;">
-            <img onclick="aviso()" src="IMG/inglish.png" style="width: 20%;position: absolute;bottom: 0%;right: 35%" title="Em breve">
-            <img onclick="aviso()" src="IMG/spanish.png" style="width: 20%;position: absolute; bottom: 0%;right: 10%" title="Em breve">  
+            <img onclick="inglish()" src="IMG/inglish.png" style="width: 20%;position: absolute;bottom: 0%;right: 35%" title="Em breve">
+            <img onclick="spanish()" src="IMG/spanish.png" style="width: 20%;position: absolute; bottom: 0%;right: 10%" title="Em breve">  
         </figure>
     </div>
 
@@ -60,9 +66,10 @@
 
                         <div class="dropdown-menu" aria-labelledby="dropdownMenuLink" style="background: #518e55">
                             <a class="dropdown-item" href="areaDeConcentracao.php">Área de concentração</a>
+                            <a class="dropdown-item " href="pesquisa.php">Linhas de Pesquisa</a>
                             <a class="dropdown-item" href="creditos.php">Créditos</a>
                             <a class="dropdown-item" href="objetivos.php">Objetivos</a>
-                            <a class="dropdown-item" href="perfilDoEgresso.php">Perfio do egresso</a>
+                            <a class="dropdown-item" href="perfilDoEgresso.php">Perfil do egresso</a>
                             <a class="dropdown-item" href="publicoAlvo.php">Público alvo</a> 
                         </div>
                     </div>
@@ -88,21 +95,12 @@
                     <a class="nav-link " href="gradeCurricular.php">Grade curricular</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link " href="pesquisa.php">Pesquisa</a>
+                    <a class="nav-link" href="docente.php">Docentes</a>
                 </li>
                 <li class="nav-item">
-                    
-                    <div class="dropdown">
-                        <a class="dropdown-toggle nav-link" href="#" role="button" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                        Pessoas
-                        </a>
-
-                        <div class="dropdown-menu" aria-labelledby="dropdownMenuLink" style="    background: #518e55">
-                            <a class="dropdown-item" href="docente.php">Docente</a>
-                            <a class="dropdown-item" href="#" onclick="aviso()">Discente </a>
-                        </div>
-                    </div>
+                    <a class="nav-link" href="#" onclick="aviso()">Discentes</a>
                 </li>
+               
                 <li class="nav-item">
                     <a class="nav-link " href="#" onclick="aviso()">Processo seletivo</a>
                 </li>

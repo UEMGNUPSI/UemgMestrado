@@ -47,6 +47,7 @@
                       <li class="list-group-item" style="min-height: 75px;display: flex;align-items: center;">Graduação: Química</li>
                       <li class="list-group-item" style="min-height: 75px;display: flex;align-items: center;">Doutorado: Química</li>
                       <li class="list-group-item">Ano de Titulação: 2014</li>
+                      <li class="list-group-item">Situação: Permanente</li>
                   </ul>
                 
                     <div class="card-footer text-muted">
@@ -74,6 +75,7 @@
                       <li class="list-group-item" style="min-height: 75px;display: flex;align-items: center;">Graduação: Ciências Biológicas</li>
                       <li class="list-group-item" style="min-height: 75px;display: flex;align-items: center;">Doutorado: Ecologia, Conservação e Manejo da Vida Silvestre.</li>
                       <li class="list-group-item">Ano da Titulação: 2014</li>
+                      <li class="list-group-item">Situação: Permanente</li>
 
                 </ul>
 
@@ -103,6 +105,7 @@
                       <li class="list-group-item" style="min-height: 75px;display: flex;align-items: center;">Graduação: Direito</li>
                       <li class="list-group-item" style="min-height: 75px;display: flex;align-items: center;">Doutorado: Ciência Política</li>
                       <li class="list-group-item">Ano da Titulação: 2014</li>
+                      <li class="list-group-item">Situação: Colaborador</li>
 
                 </ul>
 
@@ -137,6 +140,7 @@
                       <li class="list-group-item" style="min-height: 75px;display: flex;align-items: center;">Graduação: Tecnologia em Biocombustíveis</li>
                       <li class="list-group-item" style="min-height: 75px;display: flex;align-items: center;">Doutorado: Microbiologia Agropecuária</li>
                       <li class="list-group-item">Ano da Titulação: 2015</li>
+                      <li class="list-group-item">Situação: Permanente</li>
 
                 </ul>
                 
@@ -169,6 +173,7 @@
                       <li class="list-group-item" style="min-height: 75px;display: flex;align-items: center;">Graduação: Agronomia</li>
                       <li class="list-group-item" style="min-height: 75px;display: flex;align-items: center;">Doutorado: Agronomia (produção Vegetal)</li>
                       <li class="list-group-item">Ano da Titulação: 2015</li>
+                      <li class="list-group-item">Situação: Colaborador</li>
 
                 </ul>
                 
@@ -199,6 +204,7 @@
                       <li class="list-group-item" style="min-height: 75px;display: flex;align-items: center;">Graduação: Geografia</li>
                       <li class="list-group-item" style="min-height: 75px;display: flex;align-items: center;">Doutorado: Geografia</li>
                       <li class="list-group-item">Ano da Titulação: 2012</li>
+                      <li class="list-group-item">Situação: Colaborador</li>
 
                 </ul>
                 
@@ -233,6 +239,7 @@
                       <li class="list-group-item" style="min-height: 75px;display: flex;align-items: center;">Graduação: Engenharia de Alimentos</li>
                       <li class="list-group-item" style="min-height: 75px;display: flex;align-items: center;">Doutorado: Doutor em Engenharia e Ciência de Alimentos</li>
                       <li class="list-group-item">Ano da Titulação: 2016</li>
+                      <li class="list-group-item">Situação: Permanente</li>
 
                 </ul>
                 
@@ -264,6 +271,7 @@
                       <li class="list-group-item" style="min-height: 75px;display: flex;align-items: center;">Graduação: Ciências Biológicas</li>
                       <li class="list-group-item" style="min-height: 75px;display: flex;align-items: center;">Doutorado: Microbiologia Agropecuária</li>
                       <li class="list-group-item">Ano da Titulação: 2015</li>
+                      <li class="list-group-item">Situação: Permanente</li>
 
                 </ul>
                 
@@ -295,6 +303,7 @@
                       <li class="list-group-item" style="min-height: 75px;display: flex;align-items: center;">Graduação: Ciências Biológicas</li>
                       <li class="list-group-item" style="min-height: 75px;display: flex;align-items: center;">Doutorado: Microbiologia Agropecuária</li>
                       <li class="list-group-item">Ano da Titulação: 2012</li>
+                      <li class="list-group-item">Situação: Permanente</li>
 
                 </ul>
                 
@@ -329,6 +338,7 @@
                       <li class="list-group-item" style="min-height: 75px;display: flex;align-items: center;">Graduação: Design de Produtos</li>
                       <li class="list-group-item" style="min-height: 75px;display: flex;align-items: center;">Doutorado: Ciência e Tecnologia da Madeira</li>
                       <li class="list-group-item">Ano da Titulação: 2016</li>
+                      <li class="list-group-item">Situação: Permanente</li>
 
                 </ul>
                 
@@ -360,6 +370,7 @@
                       <li class="list-group-item" style="min-height: 75px;display: flex;align-items: center;">Graduação: Química</li>
                       <li class="list-group-item" style="min-height: 75px;display: flex;align-items: center;">Doutorado: Química</li>
                       <li class="list-group-item">Ano da Titulação: 2014</li>
+                      <li class="list-group-item">Situação: Colaborador</li>
 
                 </ul>
                 
@@ -390,6 +401,7 @@
                       <li class="list-group-item" style="min-height: 75px;display: flex;align-items: center;">Graduação: Geografia</li>
                       <li class="list-group-item" style="min-height: 75px;display: flex;align-items: center;">Doutorado: Agronomia (Solos e Nutrição de Plantas)</li>
                       <li class="list-group-item">Ano da Titulação: 2012</li>
+                      <li class="list-group-item">Situação: Permanente</li>
 
                 </ul>
                 
@@ -424,6 +436,7 @@
                       <li class="list-group-item" style="min-height: 75px;display: flex;align-items: center;">Graduação: Ciências Biológicas</li>
                       <li class="list-group-item" style="min-height: 75px;display: flex;align-items: center;">Doutorado: Entomologia</li>
                       <li class="list-group-item">Ano da Titulação: 2015</li>
+                      <li class="list-group-item">Situação: Permanente</li>
 
                 </ul>
                 
@@ -454,6 +467,7 @@
                       <li class="list-group-item" style="min-height: 75px;display: flex;align-items: center;">Graduação: Agronomia</li>
                       <li class="list-group-item" style="min-height: 75px;display: flex;align-items: center;">Doutorado: Agronomia (Entomologia)</li>
                       <li class="list-group-item">Ano da Titulação: 2010</li>
+                      <li class="list-group-item">Situação: Permanente</li>
 
                 </ul>
                 
@@ -484,6 +498,7 @@
                       <li class="list-group-item" style="min-height: 75px;display: flex;align-items: center;">Graduação: Agronomia</li>
                       <li class="list-group-item" style="min-height: 75px;display: flex;align-items: center;">Doutorado: Fitotecnia (Produção Vegetal)</li>
                       <li class="list-group-item">Ano da Titulação: 2009</li>
+                      <li class="list-group-item">Situação: Permanente</li>
 
                 </ul>
                 
