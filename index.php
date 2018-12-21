@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>Page Title</title>
+    <title>Ciências Ambientais</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     
     <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css" media=""/>
@@ -35,7 +35,7 @@
 </head>
 <body style="font-family: 'Arimo', sans-serif;">
     <?php
-        require_once("Head.php");
+        require_once("headMenu.php");
     ?>
 
         <p style="margin-top:100px"></p>

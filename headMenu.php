@@ -12,7 +12,7 @@
                 
             
         </script>
-    <div class="container" style="margin-top:20px;margin-bottom:80px">
+    <div class="container" style="margin-top:20px">
         
             <img class="logo1" src="IMG/logoMestradocor.png" style="width: 30%;float:left">
         
@@ -111,5 +111,27 @@
             
         </div>
     </nav>
-            
+    <div class="row" style="margin-bottom:50px;margin-top: 10px">
+        <div id="carouselExampleControls2" class="carousel slide col-12 " data-ride="carousel">
+            <div class="carousel-inner">
+                <div class="carousel-item active">
+                    <a href="ProcessoSeletivo.php"><img class="d-block w-100" src="IMG/telainicial.png" alt="First slide"></a>
+                </div>
+                <!-- <div class="carousel-item">
+                    <img class="d-block w-100" src="" alt="Second slide">
+                </div>
+                <div class="carousel-item">
+                    <img class="d-block w-100" src="" alt="Third slide">
+                </div> -->
+            </div>
+            <!-- <a class="carousel-control-prev" href="#carouselExampleControls2" role="button" data-slide="prev">
+                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                <span class="sr-only">Previous</span>
+            </a>
+            <a class="carousel-control-next" href="#carouselExampleControls2" role="button" data-slide="next">
+                <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                <span class="sr-only">Next</span> -->
+            </a>
+        </div>
+    </div>
     </div>

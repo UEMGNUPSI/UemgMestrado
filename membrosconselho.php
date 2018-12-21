@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>Page Title</title>
+    <title>Ciências Ambientais</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
     <!-- CSS -->
@@ -24,7 +24,7 @@
            
     ?>
 <div class="container">
-  <h2 style="padding-left:10%"> MEMBROS DO CONSELHO </h2>
+  <h2 style="padding-left:10%"> MEMBROS DO COLEGIADO </h2>
 <div style="background: white;padding:0px;" >
 
 <div class="media border border-secondary p-3 mt-5 mb-5" >

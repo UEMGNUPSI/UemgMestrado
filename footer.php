@@ -12,7 +12,7 @@
             
                 <li style="padding-left:5%"><a class="menu-footer" href="areaDeConcentracao.php">Área de concentração</a></li>
                 <li style="padding-left:5%"><a class="menu-footer" href="creditos.php">Créditos</a></li>
-                <li style="padding-left:5%"><a class="menu-footer" href="objetivos.php">Objetivos</a></li>
+                <li style="padding-left:5%"><a class="menu-footer" href="objetivos.php">Objetivo</a></li>
                 <li style="padding-left:5%"><a class="menu-footer" href="perfilDoEgresso.php">Perfil do egresso</a></li>
                 <li style="padding-left:5%"><a class="menu-footer" href="publicoAlvo.php">Público alvo</a></li>
             </div>
@@ -20,14 +20,14 @@
 
         <div class="col-md-3" style="margin-bottom: 10px;">
             <div style="background:#518e5538;padding-left:4%;height:165px">
-                <p>&#9660; Conselho do programa</p>
+                <p>&#9660; Colegiado do programa</p>
                     
-                <li style="padding-left:5%"><a class="menu-footer" href="membrosconselho.php">Membros do conselho</a></li>
+                <li style="padding-left:5%"><a class="menu-footer" href="membrosconselho.php">Membros do colegiado</a></li>
                 <li style="padding-left:5%"><a class="menu-footer" onclick="aviso()">Calendário de reuniões</a></li>
 
-                <p style="margin-top:10px">&#9679; Normas e Diretrizes </p>
+                <p style="margin-top:10px">&#9679;<a class="menu-footer" href="normasEdiretrizes.php" > Normas e Diretrizes</p> </p>
 
-                 <p>&#9679; <a class="menu-footer" href="gradeCurricular.php"> Grade curricular </a> </p>
+                 <p>&#9679; <a class="menu-footer" href="gradeCurricular.php"> Matriz curricular </a> </p>
             </div>
         </div>
 
@@ -43,7 +43,7 @@
 
         <div class="col-md-3" style="margin-bottom: 10px;">
             <div style="background:#518e5538;padding-left:4%;height:165px">    
-                <p>&#9679; <a class="menu-footer" onclick="aviso()">Processo seletivo</a></p>
+                <p>&#9679; <a class="menu-footer" href="ProcessoSeletivo.php">Processo seletivo</a></p>
 
                  <p>&#9679;<a class="menu-footer" href="faleConosco.php"> Fale Conosco</a></p>
             </div>

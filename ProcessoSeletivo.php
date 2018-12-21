@@ -22,30 +22,25 @@
     <?php
         require_once("Head.php");
     ?>
-
-    <div class="container" style="padding-left:5%;padding-right:5%;text-align: justify">
-           
-        <h2> LINHAS DE PESQUISA </h2>
-        <br>
-        <li>Diagnóstico e Ecologia Ambiental</li>
-        <br>
-        <p> Os projetos desenvolvidos nesta linha de pesquisa visam o monitoramento ambiental para o levantamento dos aspectos ecológicos, geográficos e hídricos, 
-        promovendo a compreensão e ampliação dos conhecimentos sobre a biodiversidade, os ecossistemas e a ação das atividades antrópicas sobre os recursos naturais;
-        contribuindo para tomada de decisões sobre o uso racional, manejo e conservação dos recursos naturais.</p>
-            <br>
-        <li>Tecnologia, Ambiente e Sociedade</li>
-        <br>
-        <p> Os estudos desenvolvidos nessa linha contribuirão para o desenvolvimento de tecnologias inovadoras que minimizem os impactos gerados pela ação antrópica no 
-        meio ambiente, a partir do desenvolvimento de métodos e materiais para o controle ambiental e produção sustentável. Também será trabalhado a reutilização de resíduos 
-        agroindustriais, químicos e minerais, ênfase na bioenergia, produção de alimentos e educação ambiental; objetivando o bem estar e a qualidade de vida da sociedade.</p>
-
+        <div class="container">
+            <div class="espaco">
+            <h2 style="margin-bottom:40px"> PROCESSO SELETIVO </h2>
+                <a class="menu-footer" href="Arquivos/Edital2019-Final.pdf" target="_blank"><b> Edital 2019</b></a>
+                <br>
+                <a class="menu-footer" href="Arquivos/ResquerimentoDeInscrição.docx" target="_blank"> Requerimento de inscrição</a>
+                <br>
+                <a class="menu-footer" href="Arquivos/CartaDeRecomendação.docx" target="_blank"> Carta de recomendação</a>
+                <br>
+                <a class="menu-footer" href="Arquivos/FichaDeAvaliaçãoDoCurrículoLattles.docx" target="_blank"> Ficha de avaliação do currículo Lattes</a>
+                <br>
+                <a class="menu-footer" href="Arquivos/PRE-PROJETOMODELO.pdf" target="_blank"> Instruções Pré-Projeto </a>
+                <br>
+                <a class="menu-footer" href="Arquivos/PRE-PROJETOMODELO.doc" target="_blank"> Modelo Pré-Projeto </a>
+            </div>
         </div>
 
-
-
-
-        <?php
-        require_once("footer.php");
-    ?>
-</body>
+    <?php
+            require_once("footer.php");
+        ?>
+    </body>
 </html>

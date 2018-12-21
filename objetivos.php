@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>Page Title</title>
+    <title>Ciências Ambientais</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
     <!-- CSS -->
@@ -24,7 +24,7 @@
     ?>
         <div class="container" style="padding-left:5%;padding-right:5%;text-align: justify">
             
-            <h2> OBJETIVOS </h2>
+            <h2> OBJETIVO </h2>
             <br>
             <p> O objetivo do programa é preparar o aluno para a pesquisa e o exercício do magistério superior, através de competências interdisciplinares, 
             tendo em vista os desafios gerados pela relação ambiente-sociedade, capacitando-o a resolução de problemas reais no âmbito do monitoramento ambiental e 

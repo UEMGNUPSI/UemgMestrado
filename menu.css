@@ -57,7 +57,9 @@ a{
 .dropdown-item:hover{
     background: #7bb17e !important;  
 }
-
+.espaco{
+    padding-left: 10%;
+}
 @media (max-width: 575.98px){
     .espacamento{
         margin-left:10px; 
